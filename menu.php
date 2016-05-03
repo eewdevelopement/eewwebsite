@@ -10,11 +10,11 @@
         <ul class="dropdown-men" style="display: none; left: auto;">
             <li style="width: 270px;"><a href="WebDevelopmentServices.php">Website Development</a>            </li>
             <li style="width: 270px;"><a href="Mobiledevelopmentservices.php">Mobile applications</a></li>
-            <li style="width: 270px;"><a href="http://#/cms/">CMS solutions</a></li>
+            <li style="width: 270px;"><a href="CMSsolution.php">CMS solutions</a></li>
             <li style="width: 270px;"><a href="E-commerceSolutions.php">E-commerce solutions</a></li>
             <li style="width: 270px;"><a href="CloudSolution.php">Cloud solutions</a></li>
-            <li style="width: 270px;"><a href="http://#/workflow-automation/">Business Process Automation</a></li>
-            <li style="width: 270px;"><a href="http://#/social-networking/">Social Networking</a></li>
+            <li style="width: 270px;"><a href="CustomBusinessApplicationDevelopmentServices.php">Business Process Automation</a></li>
+            <li style="width: 270px;"><a href="SocialNetworkingservices.php">Social Networking</a></li>
             <li style="width: 270px;"><a href="MediaContentDistribution.php">Media Content Distribution</a></li>
         </ul>
     </li>

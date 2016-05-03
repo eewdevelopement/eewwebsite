@@ -91,7 +91,7 @@
                         <a href="mailto:sales@#.com">sales@#.com</a>
                     </div>
                     <div class="request_btn">
-                        <span class="btn_grey"><a href="http://www.#.com/contact/" title="">Calculate your project's development cost »</a></span>                
+                        <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
                     </div>    
                 </div>
             </div>
@@ -105,11 +105,11 @@
                                 <span class="icon-bar"></span>
                             </a>
                         </div>    
-                        <a href="http://www.#.com/" class="logo small_displ" title="Home"></a>
+                        <a href="http://www.eewtech.in/" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
-                                <a class="header_sep hl3 hlink" href="mailto:sales@#.com">sales@#.com</a>
-                                <a href="http://www.#.com/contact/" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@#.com</a>
+                                <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
                         <div class="nav-collapse collapse navbar-inverse-collapse" style="font-size: 20px;">
@@ -118,7 +118,7 @@
                     </div>
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.#.com/portfolio/ecommerce-retail/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="E-commerc&RetailPortfolio.php" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
@@ -152,11 +152,11 @@
                                     </div>
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;">Rewards Platform</h3>    
-                                        <p>StableFlow has developed custom and powerful cloud-based rewarding platform. It combines all modern development and security approaches with scalable and modular role-based architecture. System was designed as high load web application, stress testing showed that it is able to handle more than 100000 users being online at the same time. External APIs integrated: Mandrill, DocuSign, Peanut Labs, Amazon S3, New Relic, Liverail.</p>
-                                        <p>Tags: <a href="http://www.#.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a>, <a href="http://www.#.com/portfolio/communities-networks/">Communities &amp; Networks</a>, <a href="http://www.#.com/portfolio/website/">Website</a>, <a href="http://www.#.com/portfolio/php/">PHP</a>, <a href="http://www.#.com/portfolio/html5/">HTML5</a>, <a href="http://www.#.com/portfolio/yii/">Yii</a>, <a href="http://www.#.com/portfolio/bootstrap/">Bootstrap</a></p>
+                                        <p>EEW TECHNOLOGIES has developed custom and powerful cloud-based rewarding platform. It combines all modern development and security approaches with scalable and modular role-based architecture. System was designed as high load web application, stress testing showed that it is able to handle more than 100000 users being online at the same time. External APIs integrated: Mandrill, DocuSign, Peanut Labs, Amazon S3, New Relic, Liverail.</p>
+                                        <p>Tags: <a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a>, <a href="Community&Network.php">Communities &amp; Networks</a>, <a href="WebDevelopmentAgency.php">Website</a>, <a href="Php.php">PHP</a>, <a href="html5.php">HTML5</a>, <a href="java.php">JAVA</a>, <a href="Bootstrap.php">Bootstrap</a></p>
 
                                         <div class="links">
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://rewardrack.com/">See Online</a></span>
+                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in/">See Online</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -170,9 +170,9 @@
                                         <p>Smart Vitamin Club is e-commerce website with membership features, selling highest quality nutritional supplements<br>
                                             <br>
                                             StableFlow has developed custom e-commerce solution based on WordPress CMS, integrated with Limelight CRM and a number of third party services: MemberMouse, iContact, SurveyGizmo, Awe.sm, GetResponse</p>
-                                        <p>Tags: <a href="http://www.#.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a>, <a href="http://www.#.com/portfolio/communities-networks/">Communities &amp; Networks</a>, <a href="http://www.#.com/portfolio/website/">Website</a>, <a href="http://www.#.com/portfolio/ecommerce/">E-commerce</a>, <a href="http://www.#.com/portfolio/cms/">CMS</a>, <a href="http://www.#.com/portfolio/php/">PHP</a>, <a href="http://www.#.com/portfolio/wordpress/">WordPress</a></p>
+                                        <p>Tags: <a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a>, <a href="Community&Network.php">Communities &amp; Networks</a>, <a href="WebDevelopmentAgency.php">Website</a>, <a href="E-commerceSolutions.php">E-commerce</a>, <a href="CMSsolution.php">CMS</a>, <a href="Php.php">PHP</a>, <a href="Wordpress.com">WordPress</a></p>
                                         <div class="links">
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.smartvitaminclub.com/">See Online</a></span>
+                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in">See Online</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -186,10 +186,10 @@
                                         <h3 style="padding-top: 0 !important;">Website for selling decals</h3>    
                                         <p>Decalkits.com the leader and inventor of the decal kit. Artists can upload graphics and sell them; customers can create custom projects to be done by artists.<br>
                                             <br>
-                                            StableFlow has developed custom decal creator. Custom e-commerce solution was developed using Authorize.NET API</p>
-                                        <p>Tags: <a href="http://www.#.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a>, <a href="http://www.#.com/portfolio/arts-entertainment/">Arts &amp; Entertainment</a>, <a href="http://www.#.com/portfolio/website/">Website</a>, <a href="http://www.#.com/portfolio/ecommerce/">E-commerce</a>, <a href="http://www.#.com/portfolio/cms/">CMS</a>, <a href="http://www.#.com/portfolio/php/">PHP</a></p>
+                                            EEW has developed custom decal creator. Custom e-commerce solution was developed using Authorize.NET API</p>
+                                        <p>Tags: <a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a>, <a href="Arts-entertainment.php">Arts &amp; Entertainment</a>, <a href="WebDevelopmentAgency.php">Website</a>, <a href="E-commerceSolutions.php">E-commerce</a>, <a href="CMSsolution.php">CMS</a>, <a href="Php.php">PHP</a></p>
                                         <div class="links">
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://decalkits.com/">See Online</a></span>
+                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in">See Online</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -203,7 +203,7 @@
                                         <p>StableFlow has developed iOS application for zapper.co.uk - website helping users to sell books, CDs, DVDs and games for cash.<br>
                                             <br>
                                             Application works with Barcode Scanning.</p>
-                                        <p>Tags: <a href="http://www.#.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a>, <a href="http://www.#.com/portfolio/media/">Media Distribution</a>, <a href="http://www.#.com/portfolio/mobile-application/">Mobile Application</a>, <a href="http://www.#.com/portfolio/ios/">iOS</a></p>
+                                        <p>Tags: <a href="E-commerceSolutions.php">E-commerce &amp; Retail</a>, <a href="MediaContentDistribution.php">Media Distribution</a>, <a href="Mobiledevelopmentservices.php">Mobile Application</a>, <a href="Java.php">JAVA</a></p>
 
 <!--<p><i>Barcode Scanning, MapKit, Web API integration
 </i></p>-->
@@ -228,13 +228,13 @@
                                         <p>PPG Trader website was created to buy and sell new and used paramotors, wings, trikes and other PPG Accessories.<br>
                                             <br>
                                             Custom e-commerce solution has been developed using Authorize.NET API</p>
-                                        <p>Tags: <a href="http://www.#.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a>, <a href="http://www.#.com/portfolio/communities-networks/">Communities &amp; Networks</a>, <a href="http://www.#.com/portfolio/sport-health/">Sport &amp; Health</a>, <a href="http://www.#.com/portfolio/website/">Website</a>, <a href="http://www.#.com/portfolio/ecommerce/">E-commerce</a>, <a href="http://www.#.com/portfolio/cms/">CMS</a>, <a href="http://www.#.com/portfolio/php/">PHP</a></p>
+                                        <p>Tags: <a href="E-commerceSolutions.php">E-commerce &amp; Retail</a>, <a href="Community&Network.php">Communities &amp; Networks</a>, <a href="Sport&Health.php">Sport &amp; Health</a>, <a href="WebDevelopmentAgency.php">Website</a>, <a href="E-commerceSolutions.php">E-commerce</a>, <a href="CMSsolution.php">CMS</a>, <a href="Php.php">PHP</a></p>
 
 <!--<p><i>PHP, Yii framework, Authorize.NET API</i></p>-->
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.ppgtrader.com/">See Online</a></span>
+                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in/">See Online</a></span>
 
 
 
@@ -250,7 +250,7 @@
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;">Coupons application</h3>    
                                         <p>atmAp enables consumers to find out about the latest redeemable coupons that can be printed on an ATM and redeemed at retailers across the UK.</p>
-                                        <p>Tags: <a href="http://www.#.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a>, <a href="http://www.#.com/portfolio/mobile-application/">Mobile Application</a>, <a href="http://www.#.com/portfolio/ios/">iOS</a></p>
+                                        <p>Tags: <a href="E-commerceSolutions.php">E-commerce &amp; Retail</a>, <a href="Mobiledevelopmentservices.php">Mobile Application</a>, <a href="Ios.php">iOS</a></p>
 
 <!--<p><i>iOS, MapKit, Web API integration</i></p>-->
 
@@ -280,82 +280,77 @@
                         <div class="span3 sb-cont">    
                             <br>
                             <ul class="sidebarmenu">
-                                <li class=""><a href="http://www.#.com/portfolio/">All Items</a></li>
+                                <li class=""><a href="index.php">All Items</a></li>
                             </ul>
 
                             <h3 class="sidebarmenu-title">By Business Domain</h3>
                             <ul class="sidebarmenu">
 
-                                <li class="active"><a href="http://www.#.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a></li>
+                                <li class="active"><a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/travel-booking/">Travel &amp; Booking</a></li>
+                                <li class=""><a href="Travel&Booking.php">Travel &amp; Booking</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/communities-networks/">Communities &amp; Networks</a></li>
+                                <li class=""><a href="Community&Network.php">Communities &amp; Networks</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/telecommunications/">Telecommunications</a></li>
+                                <li class=""><a href="Telecommunications.php">Telecommunications</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/arts-entertainment/">Arts &amp; Entertainment</a></li>
+                                <li class=""><a href="ArtsEntertainment.php">Arts &amp; Entertainment</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/media/">Media Distribution</a></li>
+                                <li class=""><a href="MediaContentDistribution.php">Media Distribution</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/news-publications/">News and Publications</a></li>
+                                <li class=""><a href="News&Publication.php">News and Publications</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/customer-management/">Customer Management</a></li>
+                                <li class=""><a href="CustomerManagement.php">Customer Management</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/elearning/">eLearning &amp; Online Training</a></li>
+                                <li class=""><a href="Elearning&OnlineTraining.php">eLearning &amp; Online Training</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/sport-health/">Sport &amp; Health</a></li>
+                                <li class=""><a href="Sport&Health.php">Sport &amp; Health</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/business/">Business</a></li>
+                                <li class=""><a href="Business.php">Business</a></li>
 
                             </ul>
 
                             <h3 class="sidebarmenu-title">By Type</h3>
                             <ul class="sidebarmenu">
 
-                                <li class=""><a href="http://www.#.com/portfolio/website/">Website</a></li>
+                                <li class=""><a href="WebDevelopmentAgency.php">Website</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/responsive-web-design/">Responsive Web Design</a></li>
+                                <li class=""><a href="WebExpertise.php">Responsive Web Design</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/ecommerce/">E-commerce</a></li>
+                                <li class=""><a href="E-commerceSolutions.php">E-commerce</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/cms/">CMS</a></li>
+                                <li class=""><a href="CMSsolution.php">CMS</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/saas/">SaaS</a></li>
+                                <li class=""><a href="Saas.php">SaaS</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/mobile-application/">Mobile Application</a></li>
+                                <li class=""><a href="Mobiledevelopmentservices.php">Mobile Application</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/mobile-game/">Mobile Game</a></li>
+                                <li class=""><a href="Mobiledevelopmentservices.php">Mobile Game</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/smart-tv/">Smart TV Application</a></li>
 
                             </ul>
 
                             <h3 class="sidebarmenu-title">By Technology Focus</h3>
                             <ul class="sidebarmenu">
 
-                                <li class=""><a href="http://www.#.com/portfolio/php/">PHP</a></li>
+                                <li class=""><a href="Php.php">PHP</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/html5/">HTML5</a></li>
+                                <li class=""><a href="Html.php">HTML5</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/android/">Android</a></li>
+                                <li class=""><a href="Andriod.php">Android</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/ios/">iOS</a></li>
+                                <li class=""><a href="Ios.php">iOS</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/samsung-smart-tv/">Samsung Smart TV</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/google-tv/">Google TV</a></li>
 
                             </ul>
 
                             <h3 class="sidebarmenu-title">By Framework</h3>
                             <ul class="sidebarmenu">
 
-                                <li class=""><a href="http://www.#.com/portfolio/yii/">Yii</a></li>
+                                <li class=""><a href="Wordpress.php">WordPress</a></li>
 
-                                <li class=""><a href="http://www.#.com/portfolio/wordpress/">WordPress</a></li>
-
-                                <li class=""><a href="http://www.#.com/portfolio/bootstrap/">Bootstrap</a></li>
+                                <li class=""><a href="Bootstrap.php">Bootstrap</a></li>
 
                             </ul>
 

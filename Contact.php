@@ -72,7 +72,7 @@
                         <a href="mailto:sales@#">sales@#</a>
                     </div>
                     <div class="request_btn">
-                        <span class="btn_grey"><a href="http://www.#/contact/" title="">Calculate your project's development cost »</a></span>                
+                        <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
                     </div>    
                 </div>
             </div>
@@ -86,11 +86,11 @@
                                 <span class="icon-bar"></span>
                             </a>
                         </div>    
-                        <a href="http://www.#/" class="logo small_displ" title="Home"></a>
+                        <a href="index.php" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
                                 <a class="header_sep hl3 hlink" href="mailto:sales@#">sales@#</a>
-                                <a href="http://www.#/contact/" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
+                                <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
                         <div class="nav-collapse collapse navbar-inverse-collapse" style="font-size: 20px;">
@@ -99,7 +99,7 @@
                     </div>
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.#/contact/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="Contact.php" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
@@ -125,7 +125,7 @@
                     <br>
                     <p>* - means required fields</p>
                     <br>
-                    <form method="post" action="http://www.#/contact/" enctype="multipart/form-data">
+                    <form method="post" action="Contact.php" enctype="multipart/form-data">
 
                         <div class="row-fluid">
                             <div class="span3">
