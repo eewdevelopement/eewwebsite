@@ -2,6 +2,62 @@
     <?php
     include './header.php';
     ?>
+    <style>
+        #home_banner
+        {
+            background: url('images/banner/slider-agency1.jpg') no-repeat 0 50%;
+            height: 800px;
+        }
+        .home_title {
+            background: none;
+            margin-top: 200px;
+        }
+        @media (max-width: 860px) {
+            .hl2 {
+                display: none !important;
+            }
+            .home_title {
+                margin-top: 150px;
+            }
+            #home_banner
+            {
+                height: 600px;
+            }
+        }
+        @media (max-width: 700px) {
+            .hl3 {
+                display: none !important;
+            }
+            .home_title {
+                margin-top: 100px;
+            }
+            #home_banner
+            {
+                height: 500px;
+            }
+        }    
+        @media (max-width: 520px) {
+            .hl1 {
+                display: none !important;
+            }
+            .home_title {
+                margin-top: 50px;
+            }
+            #home_banner
+            {
+                height: 420px;
+            }
+        }    
+        @media (max-width: 350px) {
+            .rfp {
+                display: none !important;
+            }
+            #home_banner
+            {
+                height: 420px;
+            }
+        }    
+    </style>    
     <body>
         <div id="header" class="clearfix">
             <div class="container" style="height: 100px;" id="header-top">
@@ -58,25 +114,11 @@
 
                 <div id="home_banner">
                     <div class="container">
-                        <div class="row-fluid">
-                            <div class="left span3">
-                                <a class="servlink-home sweb-home s2" href="http://www.eewtech.in/web-development/">LAMP & MEAN<br/>Web Development</a>
-                            </div>    
-                            <div class="left span3">
-                                <a class="servlink-home smobile-home s2" href="http://www.eewtech.in/mobile-development/">iOS & Android<br/>Mobile Development</a>
-                            </div>    
-                            <div class="left span3">                    
-                                <a class="servlink-home sapp-home s2" href="http://www.eewtech.in/cms/">WordPress<br/>CMS Solutions</a>
-                            </div>
-                            <div class="right span3">                    
-                                <a class="servlink-home secommerce-home" href="http://www.eewtech.in/e-commerce/">e-Commerce<br/>Solutions</a>
-                            </div>
-                        </div>
                         <h1 class="home_title">ONLY THE BEST PRACTICES IN <span>WEB</span> AND <span>MOBILE</span> APPLICATIONS DEVELOPMENT<!--<span>LAMP</span>, <span>MEAN</span> & <span>MOBILE</span> DEVELOPMENT--></h1>
                         <br>
                         <br>
                         <br>
-                        <p style="text-align: center;"><a href="http://www.eewtech.in/services/" class="btn_transparent">Get Started Today With Developer</a></p>
+                        <p style="text-align: center;"><a href="http://#/services/" class="btn_transparent">Get Started Today With Developer</a></p>
                         <br>
                     </div>
                 </div>
@@ -195,7 +237,7 @@
                         </div>    
                     </div>
                 </div>    
-        
+
             </div>
         </div>
         <?php

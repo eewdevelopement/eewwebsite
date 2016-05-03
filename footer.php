@@ -1,3 +1,13 @@
+<style>
+    #text {
+        padding-bottom: 230px;    
+    }
+
+    #footer {
+        min-height: 230px;
+        margin: -230px auto 0;
+    }    
+</style>
 <div id="footer" class="foot_en sb-slide">
     <div class="container">
         <div class="footer_wrapper row-fluid">
