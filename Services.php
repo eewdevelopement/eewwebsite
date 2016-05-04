@@ -64,18 +64,6 @@
         <div id="header" class="clearfix">
             <div class="container" style="height: 100px;" id="header-top">
                 <div class="new-year-hat">
-                    <!--div class="santa-hat">
-                            <img alt="" src="http://www.stableflow.com/images/santa-hat.png" />
-                    </div>
-                    <div class="snow snow-one">
-                            <img alt="" src="http://www.stableflow.com/images/snow.png" />
-                    </div>
-                    <div class="snow snow-two">
-                            <img alt="" src="http://www.stableflow.com/images/snow.png" />
-                    </div>
-                    <div class="snow snow-three">
-                            <img alt="" src="http://www.stableflow.com/images/snow.png" />
-                    </div-->
                     <a title="Home" class="logo" href=""></a>	
                 </div>
 
@@ -108,10 +96,6 @@
                         <a href="http://www.stableflow.com/" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
-                                <!--
-                                <a class="header_sep hl1 hphone" href="tel:+17183953674">+1 718 395 3674</a>
-                                <a class="header_sep hl2 hphone" href="tel:+4402081448618">+44 020 8144 8618</a>
-                                -->
                                 <a class="header_sep hl3 hlink" href="mailto:sales@stableflow.com">sales@stableflow.com</a>
                                 <a href="http://www.stableflow.com/contact/" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
