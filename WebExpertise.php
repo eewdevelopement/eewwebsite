@@ -17,7 +17,7 @@
                         <a href="mailto:sales@#.com">sales@#.com</a>
                     </div>
                     <div class="request_btn">
-                        <span class="btn_grey"><a href="http://www.#.com/contact/" title="">Calculate your project's development cost »</a></span>                
+                        <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
                     </div>    
                 </div>
             </div>
@@ -26,7 +26,7 @@
                     <?php include './menu.php'; ?>
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.#.com/expertise-web/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="WebExpertise.php" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
@@ -160,7 +160,6 @@
                                     <li><a href="http://www.#.com/expertise-cloud/" title="Cloud">Cloud</a></li>
 
 
-                                    <li><a href="http://www.#.com/expertise-api/" title="API">API</a></li>
 
 
 

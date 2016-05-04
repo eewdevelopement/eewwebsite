@@ -48,32 +48,32 @@
             } catch (e235534) {
             }
         })();</script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="all">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.css" media="all">
-    <link rel="stylesheet" type="text/css" href="css/styles.css?v=310120150" media="all">
-    <link rel="stylesheet" type="text/css" href="js/slidebars.css">
-    <link rel="stylesheet" type="text/css" href="css/superfish.public.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="css/fix.css" media="all">
-    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <link rel="shortcut icon" href="http://www.stableflow.com/images/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="http://www.stableflow.com/css/bootstrap.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://www.stableflow.com/css/bootstrap-responsive.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://www.stableflow.com/css/styles.css?v=310120150" media="all">
+    <link rel="stylesheet" type="text/css" href="http://www.stableflow.com/javascript/slidebars/slidebars.css">
+    <link rel="stylesheet" type="text/css" href="http://www.stableflow.com/lib_js/jquery/plugins/_menus/superfish/css/superfish.public.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="http://www.stableflow.com/css/fix.css" media="all">
+    <script type="text/javascript" src="http://www.stableflow.com/javascript/bootstrap.js"></script>
     <script type="text/javascript">
-        var rootUrl = 'http://www.eewtech.in/';
-        var selfUrl = 'http://www.eewtech.in/';
+        var rootUrl = 'http://www.stableflow.com/';
+        var selfUrl = 'http://www.stableflow.com/';
         var ajaxEventUID = 831391;
     </script>
-    <script type="text/javascript" src="js/jquery.hoverIntent.js"></script>
-    <script type="text/javascript" src="js/script.js"></script>
+    <script type="text/javascript" src="http://www.stableflow.com/javascript/jquery.hoverIntent.js"></script>
+    <script type="text/javascript" src="http://www.stableflow.com/javascript/script.js"></script>
 
     <!-- footer script  -->
-    <script type="text/javascript" src="js/hoverIntent.js"></script>
-    <script type="text/javascript" src="js/superfish.js"></script>
-    <script type="text/javascript" src="js/jquery.bgiframe.min.js"></script>
-    <script type="text/javascript" src="js/supersubs.js"></script>
-    <script type="text/javascript" src="js/jquery.carouFredSel-6.1.0-packed.js"></script>
-    <script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
-    <script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
-    <script type="text/javascript" src="js/slidebars.min.js"></script>
-    <script type="text/javascript" src="js/custom.js"></script>
+    <script type="text/javascript" src="./js/hoverIntent.js"></script>
+    <script type="text/javascript" src="./js/superfish.js"></script>
+    <script type="text/javascript" src="./js/jquery.bgiframe.min.js"></script>
+    <script type="text/javascript" src="./js/supersubs.js"></script>
+    <script type="text/javascript" src="./js/jquery.carouFredSel-6.1.0-packed.js"></script>
+    <script type="text/javascript" src="./js/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="./js/jquery.touchSwipe.min.js"></script>
+    <script type="text/javascript" src="./js/slidebars.min.js"></script>
+    <script type="text/javascript" src="./js/custom.js"></script>
     <!---->
 
     <script type="text/javascript" src="js/jquery.bxslider.js"></script>

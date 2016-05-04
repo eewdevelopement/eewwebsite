@@ -1,4 +1,4 @@
-/*﻿@import url('reset.css');*/
+﻿@import url('reset.css');
 
 @charset "utf-8";
 
@@ -87,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .top_menu {
     clear: both;
-    background: url(images/bg_menu_new.gif) 0 0 repeat-x;
+    background: url(../images/bg_menu_new.gif) 0 0 repeat-x;
     /*height: 29px;*/
 }
 
@@ -96,7 +96,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0;
     text-align: center;
     line-height: 29px;
-    background: url(images/menu_sep.gif) 100% 50% no-repeat;
+    background: url(../images/menu_sep.gif) 100% 50% no-repeat;
 }
 
 
@@ -111,7 +111,7 @@ h1, h2, h3, h4, h5, h6 {
 .top_menu li a:hover,
 .top_menu li.active a,
 .top_menu li.sfHover>a{
-    background: url(images/bg_menu_new.gif) 0 100% repeat-x;
+    background: url(../images/bg_menu_new.gif) 0 100% repeat-x;
     border-left: 1px solid #cdcdcd;
     text-decoration: none;
     width: 195px;
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
     padding: 0;
     margin: 0;
-    background: url(images/menu_sep.gif) 0 50% no-repeat;
+    background: url(../images/menu_sep.gif) 0 50% no-repeat;
     text-align: center;
 }
 
@@ -284,7 +284,7 @@ h6 {font-size: 12px;line-height: 24px;}
     margin: 20px 0;
     /*padding-left: 90px;*/
     text-transform: uppercase;
-    background: url("images/heading-border.png") repeat-x scroll left bottom rgba(0, 0, 0, 0);
+    background: url("../images/heading-border.png") repeat-x scroll left bottom rgba(0, 0, 0, 0);
     padding-bottom: 10px;
 }
 
@@ -331,55 +331,55 @@ h6 {font-size: 12px;line-height: 24px;}
 
 /*
 .vacancyimg {
-    background: url(images/service/vacancy.png) no-repeat;
+    background: url(../images/service/vacancy.png) no-repeat;
 }
 .careerimg {
-    background: url(images/service/work.png) no-repeat;
+    background: url(../images/service/work.png) no-repeat;
 }
 .contactimg {
-    background: url(images/service/contact.png) no-repeat;
+    background: url(../images/service/contact.png) no-repeat;
 }
 .expertisewebimg {
-    background: url(images/service/web-blue.png) no-repeat;
+    background: url(../images/service/web-blue.png) no-repeat;
 }
 .expertisemobileimg {
-    background: url(images/service/mobile-blue.png) no-repeat;
+    background: url(../images/service/mobile-blue.png) no-repeat;
 }
 .expertisecloudimg {
-    background: url(images/service/cloud.png) no-repeat;
+    background: url(../images/service/cloud.png) no-repeat;
 }
 .expertiseapiimg {
-    background: url(images/service/api.png) no-repeat;
+    background: url(../images/service/api.png) no-repeat;
 }
 .portfolioimg {
-    background: url(images/service/portfolio.png) no-repeat;
+    background: url(../images/service/portfolio.png) no-repeat;
 }
 .aboutimg {
-    background: url(images/service/about.png) no-repeat;
+    background: url(../images/service/about.png) no-repeat;
 }
 .teamimg {
-    background: url(images/service/team.png) no-repeat;
+    background: url(../images/service/team.png) no-repeat;
 }
 .testimonialimg {
-    background: url(images/service/quote.png) no-repeat;
+    background: url(../images/service/quote.png) no-repeat;
 }
 .testimonialimg {
-    background: url(images/service/quote.png) no-repeat;
+    background: url(../images/service/quote.png) no-repeat;
 }
 .partnerimg {
-    background: url(images/service/partner.png) no-repeat;
+    background: url(../images/service/partner.png) no-repeat;
 }
 .errorimg {
-    background: url(images/service/404.png) no-repeat;
+    background: url(../images/service/404.png) no-repeat;
 }
 .businessimg {
-    background: url(images/service/application-blue.png) no-repeat;
+    background: url(../images/service/application-blue.png) no-repeat;
 }
 .ecommerceimg {
-    background: url(images/service/ecommerce-blue.png) no-repeat;
+    background: url(../images/service/ecommerce-blue.png) no-repeat;
 }
 .cmsimg {
-    background: url(images/service/cms.png) no-repeat;
+    background: url(../images/service/cms.png) no-repeat;
 }*/
 .rportf {
     border-top: 1px #ececec dashed;
@@ -405,7 +405,7 @@ h6 {font-size: 12px;line-height: 24px;}
 
 .main-cont li, .hservices li {
     padding: 2px 0 1px 30px;
-    background: url(images/orange_mark.png) no-repeat 12px 5px;
+    background: url(../images/orange_mark.png) no-repeat 12px 5px;
     line-height: 21px;
 }
 
@@ -634,28 +634,28 @@ input.inputtext.big {width:400px;}
 .message.success {
     color:#1c8400;
     border:#b4e8aa solid 1px;
-    background:#e9f9e5 url("images/onebit-icons/success.png") 10px 50% no-repeat;
+    background:#e9f9e5 url("../images/onebit-icons/success.png") 10px 50% no-repeat;
 }
 .message.warning {
     color:#828400;
     border:#e8e3aa solid 1px;
-    background:#f9f9e5 url("images/onebit-icons/warning.png") 10px 50% no-repeat;
+    background:#f9f9e5 url("../images/onebit-icons/warning.png") 10px 50% no-repeat;
 }
 .message.error,
 .message.errormsg {
     color:#b50007;
     border:#e8aaad solid 1px;
-    background:#f9e5e6 url("images/onebit-icons/error.png") 10px 50% no-repeat;
+    background:#f9e5e6 url("../images/onebit-icons/error.png") 10px 50% no-repeat;
 }
 .message.information,
 .message.info {
     color:#0055b5;
     border:#aac6e8 solid 1px;
-    background:#e5ecf9 url("images/onebit-icons/info.png") 10px 50% no-repeat;
+    background:#e5ecf9 url("../images/onebit-icons/info.png") 10px 50% no-repeat;
 }
 .message.tip {
     border:1px solid #fdd845;
-    background:#fff6bf url("images/onebit-icons/tip.png") 10px 50% no-repeat;
+    background:#fff6bf url("../images/onebit-icons/tip.png") 10px 50% no-repeat;
 }
 
 /* buttons */
@@ -1003,7 +1003,7 @@ input.inputtext.big {width:400px;}
     margin: 20px auto;
     text-align: center;
     font-weight: 100; 
-    background: url("images/heading-border.png") repeat-x scroll left bottom rgba(0, 0, 0, 0);
+    background: url("../images/heading-border.png") repeat-x scroll left bottom rgba(0, 0, 0, 0);
     padding: 0 10px 10px 10px;
     display: inline-block;    
 }
@@ -1100,7 +1100,7 @@ input.inputtext.big {width:400px;}
 }
 
 .vacations li {
-    background: url("images/orange_mark.png") no-repeat scroll 4px 12px transparent;    
+    background: url("../images/orange_mark.png") no-repeat scroll 4px 12px transparent;    
     line-height: 30px;
     padding: 2px 0 1px 20px;    
     text-align: left;
@@ -1326,7 +1326,7 @@ b.caret {
     text-decoration: none;
 }
 .navbar .nav > li{
-    background: url("images/menu_sep.gif") no-repeat scroll 100% 50% transparent;
+    background: url("../images/menu_sep.gif") no-repeat scroll 100% 50% transparent;
     text-align: center;
     /*width: 20%;*/
 	width: 15%;
@@ -1334,11 +1334,11 @@ b.caret {
 
 .home_point_wrapper {
     float: left; 
-    background: url("images/menu_sep.gif") no-repeat scroll 100% 50% transparent;    
+    background: url("../images/menu_sep.gif") no-repeat scroll 100% 50% transparent;    
 }
 
 .header_sep {    
-    background: url("images/menu_sep.gif") no-repeat scroll 100% 50% transparent;
+    background: url("../images/menu_sep.gif") no-repeat scroll 100% 50% transparent;
     margin-right: 10px;
     padding-right: 10px;
     display: none;
@@ -1353,14 +1353,14 @@ b.caret {
     display: block;
     width: 48px;
     height: 48px;
-    background: url("images/home_w.png") no-repeat scroll 0 0 transparent;
+    background: url("../images/home_w.png") no-repeat scroll 0 0 transparent;
 }
 
 .home_link_ua {
     display: block;
     width: 46px;
     height: 48px;
-    background: url("images/Ukraine-Flag-32.png") no-repeat scroll 50% 50% transparent;
+    background: url("../images/Ukraine-Flag-32.png") no-repeat scroll 50% 50% transparent;
 }
 
 .home_point_wrapper_m {
@@ -1393,13 +1393,13 @@ b.caret {
     display: block;
     width: 48px;
     height: 48px;
-    background: url("images/home_w_hover.png") no-repeat scroll 0 0 transparent;
+    background: url("../images/home_w_hover.png") no-repeat scroll 0 0 transparent;
 }
 .home_link_ua:hover {
     display: block;
     width: 46px;
     height: 48px;
-    background: url("images/home_w_hover_ua.png") no-repeat scroll 0 0 transparent;
+    background: url("../images/home_w_hover_ua.png") no-repeat scroll 0 0 transparent;
 }
 .lang {
     color: #fff;
@@ -1581,7 +1581,7 @@ b.caret {
     }
 }
 @media (min-width: 979px) {
-    .navbar-inner{background: url("images/menu_sep.gif") no-repeat 0 50% !important;}
+    .navbar-inner{background: url("../images/menu_sep.gif") no-repeat 0 50% !important;}
     .footer_nav.en{display: none;}
 }
 @media (max-width: 979px) {
@@ -1872,7 +1872,7 @@ b.caret {
         border-bottom: 1px solid #FFF;
     }
     .main-cont {
-        margin-top: 0px;
+        margin-top: 0px; 
     }
     .sidebarmenu {
         border-bottom: 1px solid #ECECEC;

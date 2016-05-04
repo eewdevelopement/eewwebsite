@@ -1183,7 +1183,7 @@
   .footer_third_column{background: none; padding: 0;}
   .contr_services >a, .contr_company > a {font-size: 20px; padding: 10px 0 0;}
   .salesemail.ico_mail, .ico_skype{display: inline-block;}
-  .footer_third_column{margin: 0; }
+  .footer_third_column{margin: 0; padding:0}
   #footer h2{margin: 0 !important; padding: 10px 0 0 !important;}
   #footer a{line-height: 20px;}
 }
