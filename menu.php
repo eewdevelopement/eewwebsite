@@ -18,7 +18,7 @@
             <li style="width: 270px;"><a href="MediaContentDistribution.php">Media Content Distribution</a></li>
         </ul>
     </li>
-    <li class=" dropdown"><a href="WebExpertise.php" class="dropdown-toggle" data-toggle="dropdown">Expertise<b class="caret"></b></a>
+    <li class=" dropdown"><a href="Expertise.php" class="dropdown-toggle" data-toggle="dropdown">Expertise<b class="caret"></b></a>
         <ul class="dropdown-men" style="display: none; left: auto;">
             <li class="active"><a href="WebExpertise.php">Web</a></li>
             <li><a href="Mobiledevelopmentservices.php">Mobile</a></li>
@@ -27,9 +27,9 @@
         </ul>
     </li>
     <li><a href="Work.php">Work</a></li>
-    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Company<b class="caret"></b></a>
+    <li class="dropdown"><a href="AboutUs.php" class="dropdown-toggle" data-toggle="dropdown">Company<b class="caret"></b></a>
         <ul class="dropdown-men" style="display: none; left: auto;">
-            <li><a href="#">About us</a> </li>
+            <li><a href="AboutUs.php">About us</a> </li>
             <li><a href="Process.php">Process</a></li>
         </ul>
     </li>

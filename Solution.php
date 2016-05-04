@@ -88,7 +88,7 @@
                         <a href="tel:+4402081448618">+44 020 8144 8618</a>
                         -->
                         <span>email:</span>
-                        <a href="mailto:sales@stableflow.com">sales@stableflow.com</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -105,15 +105,15 @@
                                 <span class="icon-bar"></span>
                             </a>
                         </div>    
-                        <a href="http://www.stableflow.com/" class="logo small_displ" title="Home"></a>
+                        <a href="http://www.eewtech.in/" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
                                 <!--
                                 <a class="header_sep hl1 hphone" href="tel:+17183953674">+1 718 395 3674</a>
                                 <a class="header_sep hl2 hphone" href="tel:+4402081448618">+44 020 8144 8618</a>
                                 -->
-                                <a class="header_sep hl3 hlink" href="mailto:sales@stableflow.com">sales@stableflow.com</a>
-                                <a href="http://www.stableflow.com/contact/" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
+                                <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
                         <div class="nav-collapse collapse navbar-inverse-collapse" style="font-size: 20px;">
@@ -122,7 +122,7 @@
                     </div><!-- /navbar-inner -->
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.stableflow.com/services/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
@@ -130,53 +130,109 @@
             <div id="text">
 
                 <style>
-                    .main-cont h3 {
-                        font-size: 22px;
+                    .servlink1 {
+                        font-size: 20px;
+                        text-decoration: underline !important;
+                    }
+                    .servlink1:hover {
+                        text-decoration: none !important;
                     }
                 </style>    
                 <div class="main-cont container">
-                    <h1>Services</h1>
                     <div class="row-fluid">
-                        <div class="left span6">
-                            <h3>Web development</h3>
-                            <ul>
-                                <li>Websites</li>
-                                <li>Web applications</li>
-                                <li>Content Management Systems (CMS)</li>
-                                <li>Software-as-a-service (SAAS)</li>
-                                <li>Single-page applications (SPA) and websites</li>
-                            </ul> 
-                            <br>
-                            <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Web%20Development">Request</a></span>
-                            <br>
-                            <br>
-                        </div>    
-                        <div class="right span6">                    
-                            <h3>Mobile development</h3>
-                            <ul>
-                                <li>Applications for iPad and iPhone. Distribution to App Store</li>
-                                <li>Applications for Android phones and tablets. Distribution to Google Play</li>
-                                <li>Hybrid mobile applications</li>
-                                <li>Web services in support of online mobile apps</li>
-                                <br>
-                                <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Mobile%20development">Request</a></span>
-                                <br>
-                            </ul></div>
-                    </div>
-                    <div class="row-fluid">
-                        <div class="left span6">
-                            <h3 style="border-top: 1px dashed #ECECEC;">Own Development Team</h3>
-                            <p>Own Development Team model represents full-time development resources, allocated to work exclusively on your projects on a long-term basis. StableFlow is responsible for recruiting, hiring, housing, and retaining a team of specialists, who have precisely the set of knowledge and technologies that are needed to you. We offer you flexibility in terms of team size and structure as well as the option to increase or decrease numbers during the engagement.</p>
-                            <br>
-                            <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Own%20Development%20Team">Request</a></span>
-                            <br>
-                        </div>    
-                        <div class="right span6">                    
-                            <h3 style="border-top: 1px dashed #ECECEC;">Skills Augmentation</h3>
-                            <p>If your existing team has a shortfall in knowledge or resources, StableFlow can augment the existing members to help meet your delivery target. Experts with specific skills can be involved on as-needed basis for particular tasks or dedicated for full-time work as a member of your team. We know how to integrate quickly and efficiently with your existing team structure and processes.</p>
-                            <br>
-                            <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Skills%20Augmentation">Request</a></span>
-                            <br>
+                        <div class="span9 m-cont">    
+                            <h1>Solutions</h1>
+                            <div class="row-fluid">
+                                <div class="left span6">
+                                    <a class="servlink1" href="WebDevelopmentServices.php">WEBSITES AND WEB PORTALS</a>
+                                    <ul>
+                                        <li>We design and develop various website projects from brochure sites to multi-functional web portals</li>
+                                    </ul>
+                                </div>
+                                <div class="right span6">
+                                    <a class="servlink1" href="Mobiledevelopmentservices.php">Mobile applications</a>
+                                    <ul>
+                                        <li>We design advanced mobile solutions for business, everyday tasks, communication, social networking and entertainment</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row-fluid">
+                                <div class="left span6">
+                                    <a class="servlink1" href="CMSsolution.php">CONTENT AND DOCUMENT MANAGEMENT</a>
+                                    <ul>
+                                        <li>Our content management solutions are intended to help businesses manage and distribute information faster and more efficiently</li>
+                                    </ul>
+                                </div>
+                                <div class="right span6">
+                                    <a class="servlink1" href="E-commerceSolutions.php">E-commerce and online payments</a>
+                                    <ul>
+                                        <li>We implement online stores, B2B and B2C marketplaces, comprehensive payments solutions, mobile e-commerce, in-app purchases</li>
+                                    </ul>   
+                                </div>
+                            </div>
+                            <div class="row-fluid">
+                                <div class="left span6">
+                                    <a class="servlink1" href="CustomBusinessApplicationDevelopmentServices.php">BUSINESS PROCESS AUTOMATION</a>
+                                    <ul>
+                                        <li>We automate business processes by developing, implementing and integrating enterprise web solutions</li>
+                                    </ul>
+                                </div>
+                                <div class="right span6">
+                                    <a class="servlink1" href="SoftwareOutsourcingServices.php">SOCIAL NETWORKING</a>
+                                    <ul>
+                                        <li>We implement social networking features and build online communities</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row-fluid">
+                                <div class="left span6">
+                                    <a class="servlink1" href="CloudSolution.php">SAAS (SOFTWARE-AS-A-SERVICE)</a>
+                                    <ul>
+                                        <li>We develop Software-as-a-Service solutions (SaaS) which is highly scalable and runs in the Cloud</li>
+                                    </ul>
+                                </div>
+                                <div class="right span6">
+                                    <a class="servlink1" href="MediaContentDistribution.php">MEDIA CONTENT DISTRIBUTION</a>
+                                    <ul>
+                                        <li>We offer solutions for media content distribution via the Web, Mobile, IPTV, Smart TV</li>
+                                    </ul>        
+                                </div>
+                            </div>
+                        </div>
+                        <div class="span3 sb-cont">    
+                            <div class="sidebarmenu">
+                                <ul>
+
+                                    <li class="active"><a href="Solution.php" title="Solutions">Solutions</a></li>
+
+
+                                    <li><a href="WebDevelopmentServices.php" title="Website Development">Website Development</a></li>
+
+
+                                    <li><a href="Mobiledevelopmentservices.php" title="Mobile Applications">Mobile Applications</a></li>
+
+
+                                    <li><a href="CMSsolution.php" title="CMS Solutions">CMS Solutions</a></li>
+
+
+                                    <li><a href="E-commerceSolutions.php" title="E-commerce Solutions">E-commerce Solutions</a></li>
+
+
+                                    <li><a href="CloudSolution.php" title="Cloud Solutions">Cloud Solutions</a></li>
+
+
+                                    <li><a href="CustomBusinessApplicationDevelopmentServices.php" title="Business Process Automation">Business Process Automation</a></li>
+
+
+                                    <li><a href="SocialNetworkingservices.php" title="Social Networking">Social Networking</a></li>
+
+
+                                    <li><a href="MediaContentDistribution.php" title="Media Content Distribution">Media Content Distribution</a></li>
+
+
+
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>

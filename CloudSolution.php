@@ -150,7 +150,7 @@
                             <div class="sidebarmenu">
                                 <ul>
 
-                                    <li><a href="Solutions.php" title="Solutions">Solutions</a></li>
+                                    <li><a href="Solution.php" title="Solutions">Solutions</a></li>
 
 
                                     <li><a href="WebDevelopmentServices.php" title="Website Development">Website Development</a></li>

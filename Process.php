@@ -171,10 +171,10 @@
                             <div class="sidebarmenu">
                                 <ul>
 
-                                    <li><a href="http://www.#.com/about/" title="About Us">About Us</a></li>
+                                    <li><a href="AboutUs.php" title="About Us">About Us</a></li>
 
 
-                                    <li class="active"><a href="http://www.#.com/process/" title="Process">Process</a></li>
+                                    <li class="active"><a href="Process.php" title="Process">Process</a></li>
 
 
 
