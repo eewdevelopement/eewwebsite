@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0026)http://www#/ -->
 <html class="sb-init">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -99,27 +98,9 @@
         </style>
         <div id="home_banner">
             <div class="container">
-                <!--
-                <div class="row-fluid">
-                    <div class="left span3">
-                        <a class="servlink-home sweb-home s2" href="http://www#/web-development/">LAMP & MEAN<br/>Web Development</a>
-                    </div>    
-                    <div class="left span3">
-                        <a class="servlink-home smobile-home s2" href="http://www#/mobile-development/">iOS & Android<br/>Mobile Development</a>
-                    </div>    
-                    <div class="left span3">                    
-                        <a class="servlink-home sapp-home s2" href="http://www#/cms/">WordPress<br/>CMS Solutions</a>
-                    </div>
-                    <div class="right span3">                    
-                        <a class="servlink-home secommerce-home" href="http://www#/e-commerce/">e-Commerce<br/>Solutions</a>
-                    </div>
-                </div>
-                -->
+                
                 <h1 class="home_title">ONLY THE BEST PRACTICES IN <span>WEB</span> AND <span>MOBILE</span> APPLICATIONS DEVELOPMENT<!--<span>LAMP</span>, <span>MEAN</span> & <span>MOBILE</span> DEVELOPMENT--></h1>
                 <br>
-                <!--
-                <p class="home_description">StableFlow provides only the best practices in Web and Mobile application development since 2009</p>
-                -->
                 <br>
                 <br>
                 <p style="text-align: center;"><a href="http://www#/services/" class="btn_transparent">Get Started Today With Developer</a></p>
