@@ -1,3 +1,32 @@
+<!-- footer script  -->
+<script type="text/javascript" src="./js/hoverIntent.js"></script>
+<script type="text/javascript" src="./js/superfish.js"></script>
+<script type="text/javascript" src="./js/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="./js/supersubs.js"></script>
+<script type="text/javascript" src="./js/jquery.carouFredSel-6.1.0-packed.js"></script>
+<script type="text/javascript" src="./js/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="./js/jquery.touchSwipe.min.js"></script>
+<script type="text/javascript" src="./js/slidebars.min.js"></script>
+<script type="text/javascript" src="./js/custom.js"></script>
+<!---->
+
+<script type="text/javascript" src="js/jquery.bxslider.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.bxslider').bxSlider({
+            auto: false,
+            easing: 'ease-in-out',
+            touchEnabled: true,
+            oneToOneTouch: true,
+            controls: false,
+            nextText: 'next',
+            prevText: 'prev',
+            pager: true,
+            speed: 650,
+            pause: 8500
+        });
+    });
+</script>
 <style>
     #text {
         padding-bottom: 230px;    
