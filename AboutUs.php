@@ -1,14 +1,10 @@
-<!DOCTYPE html>
 <html class="sb-init">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <?php include './header.php'; ?>
-    </head>
+    <?php include './header.php'; ?>
     <body>
         <style>
             #home_banner
             {
-                background: url('/slider/slider-agency1.jpg') no-repeat 0 50%;
+                background: url('images/banner/slider-agency1.jpg') no-repeat 0 50%;
                 height: 800px;
             }
             .home_title {
@@ -96,69 +92,52 @@
                         </div>
                         <div class="nav-collapse collapse navbar-inverse-collapse" style="font-size: 20px;">
                             <?php include './menu.php'; ?>
-                        </div><!-- /.nav-collapse -->
-                    </div><!-- /navbar-inner -->
+                        </div> 
+                    </div> 
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="MediaContentDistribution.php#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="CMSsolution.php" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
+        <!--SAGAR ADD CODE BELOW-->        
         <div id="sb-site" style="min-height: 609px;">
             <div id="text">
 
                 <div class="main-cont container">
                     <div class="row-fluid">
-                        <div class="span9 m-cont">    
-                            <h1 class="expertisewebimg">Media Content Distribution</h1>
-                            <h3>VOD, Online TV, Internet Music, Smart TV</h3>
-                            <p>StableFlow offers expertise in developing professional solutions for media content management and distribution:</p>
-                            <ul>           
-                                <li>Solutions, allowing users to upload, create and share digital content such as video, audio and images.</li>
-                                <li>Video on demand (VOD) or audio and video on demand (AVOD) via the Web browsers and Mobile applications</li>
-                                <li>Online TV channel broadcasting over Web, Mobile, IPTV, Google TV, Boxee TV and Samsung Smart TV</li>
-                                <li>Internet music application, streamed from terminal studios</li>
-                            </ul>
-                            <p>We are experienced with HTTP / RTMP streaming, Flash Media Server, Wowza Streaming Server, Airtime, Flowplayer, JWPlayer, Youtube API</p>
-                            <h3 class="rportf">Related Portfolio</h3>
+                        <div class="span9 m-cont">
+                            <h1>About Us</h1>
+                            <p>StableFlow provides only the best practices in Web and Mobile application development since 2009.</p>
+                            <!--
+                            <p>We have started with a small team of web programmers. Since that time we have been engaged by businesses, individuals, software development outsourcing companies and technology startups for which we successfully completed more than a hundred of projects and earned high client satisfaction.</p>
+                            -->
+                            <p>We are a Company, that fully manages the processes of business analysis, development, quality control and delivery of custom Web &amp; Mobile applications.<!-- Our team includes managers, architects, software engineers, designers and quality assurance specialists.--></p>
+                            <p>We affordably and efficiently support your business requirements and your software needs by providing technology &amp; architecture consulting, user experience, development and quality assurance services.</p>
+                            <p>We are committed to becoming long-term, trusted technology partner, dedicated to meeting your needs today and support your growing needs tomorrow.</p>
+                            <h3>Key Facts</h3>
                             <ul>
-                                <li>            
-                                    <a target="_blank" rel="nofollow" href="#">Bloop London</a>
-                                    [<a target="_blank" rel="nofollow" href="#">App Store</a>]
-                                </li>
-                                <li><a target="_blank" rel="nofollow" href="#">Russian Google TV</a></li>
-                                <li><a target="_blank" rel="nofollow" href="#">EntBay TV</a></li>
+                                <li>Founded in 2009. Over 6 years in IT software development</li>
+                                <li>Privately held, owner-managed company</li>
+                                <li>30+ highly-experienced managers, architects and programmers</li>
+                                <li>Development center located in Eastern Europe - Kharkov, Ukraine</li>
+                                <li>Less than 10% staff turnover rate</li>
+                                <li>100+ successfully completed projects with different scope</li>
+                                <li>About 75% customer return rate</li>
                             </ul>
+                            <a class="company-profile" href="#" target="_blank">Download Company Profile</a>    
                         </div>
                         <div class="span3 sb-cont">    
                             <div class="sidebarmenu">
                                 <ul>
 
-                                    <li><a href="Solution.php" title="Solutions">Solutions</a></li>
+                                    <li class="active"><a href="AboutUs.php" title="About Us">About Us</a></li>
 
 
-                                    <li><a href="WebDevelopmentServices.php" title="Website Development">Website Development</a></li>
+                                    <li><a href="Process.php" title="Process">Process</a></li>
 
 
-                                    <li><a href="Mobiledevelopmentservices.php" title="Mobile Applications">Mobile Applications</a></li>
 
-
-                                    <li><a href="CMSsolution.php" title="CMS Solutions">CMS Solutions</a></li>
-
-
-                                    <li><a href="E-commerceSolutions.php" title="E-commerce Solutions">E-commerce Solutions</a></li>
-
-
-                                    <li><a href="CloudSolution.php" title="Cloud Solutions">Cloud Solutions</a></li>
-
-
-                                    <li><a href="CustomBusinessApplicationDevelopmentServices.php" title="Business Process Automation">Business Process Automation</a></li>
-
-
-                                    <li><a href="SocialNetworkingservices.php" title="Social Networking">Social Networking</a></li>
-
-
-                                    <li class="active"><a href="MediaContentDistribution.php" title="Media Content Distribution">Media Content Distribution</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -166,5 +145,7 @@
                 </div>
             </div>
         </div>
+        <!--SAGAR ADD CODE BELOW--> 
         <?php include './footer.php'; ?>
-    </body></html>
+    </body>
+</html>

@@ -69,7 +69,7 @@
                 <div id="language-header" style="margin-top: 15px; color: #0861CF;">
                     <div class="phones">
                         <span>email:</span>
-                        <a href="mailto:sales@#">sales@#</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -116,7 +116,7 @@
                     <h1 class="contactimg">Contact Us</h1>
                     <br>
                     <div style="text-transform: uppercase;">
-                        <p><b>Email:</b> <a href="mailto:sales@#">sales@#</a></p>
+                        <p><b>Email:</b> <a href="mailto:sales@eewtech.in">sales@eewtech.in</a></p>
                     </div>
                     <br>
                     <h3>Request A Quote</h3>
