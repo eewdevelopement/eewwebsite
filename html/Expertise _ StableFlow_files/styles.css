@@ -196,7 +196,7 @@ li.sfHover li li a:hover,
     width: 92px;
     height: 92px;
     /*margin-left: 50px;*/
-    /*background: #ffffff url(/images/logo.jpg) no-repeat;*/
+    background: #ffffff url(/images/logo.png) no-repeat;
 }
 .logo.small_displ{display: none;}
 .btn_request {
@@ -1804,7 +1804,7 @@ b.caret {
         border-left: none;
     }
     .main-cont {
-        margin-top: 0px;
+        margin-top: 0px; !important;
     }
     .sidebarmenu {
         border-bottom: 1px solid #ECECEC;
@@ -1872,7 +1872,7 @@ b.caret {
         border-bottom: 1px solid #FFF;
     }
     .main-cont {
-        margin-top: 0px; 
+        margin-top: 0px; !important;
     }
     .sidebarmenu {
         border-bottom: 1px solid #ECECEC;
