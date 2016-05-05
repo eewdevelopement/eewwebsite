@@ -6,8 +6,8 @@
 
 @font-face {
   font-family: 'MyCalibri';
-  src: url('/fonts/calibri/calibri.woff') format('woff'),
-       url('/fonts/calibri/calibri.ttf')  format('truetype');
+  src: url('../fonts/calibri.woff') format('woff'),
+       url('../fonts/calibri.ttf')  format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -193,10 +193,10 @@ li.sfHover li li a:hover,
 
 .logo {
     float: left;
-    width: 92px;
+    width: 350px;
     height: 92px;
     /*margin-left: 50px;*/
-    /*background: #ffffff url(/images/logo.jpg) no-repeat;*/
+    background: #ffffff url(../images/logo.png) no-repeat;
 }
 .logo.small_displ{display: none;}
 .btn_request {
@@ -331,55 +331,55 @@ h6 {font-size: 12px;line-height: 24px;}
 
 /*
 .vacancyimg {
-    background: url(../images/service/vacancy.png) no-repeat;
+    background: url(..../images/vacancy.png) no-repeat;
 }
 .careerimg {
-    background: url(../images/service/work.png) no-repeat;
+    background: url(..../images/work.png) no-repeat;
 }
 .contactimg {
-    background: url(../images/service/contact.png) no-repeat;
+    background: url(..../images/contact.png) no-repeat;
 }
 .expertisewebimg {
-    background: url(../images/service/web-blue.png) no-repeat;
+    background: url(..../images/web-blue.png) no-repeat;
 }
 .expertisemobileimg {
-    background: url(../images/service/mobile-blue.png) no-repeat;
+    background: url(..../images/mobile-blue.png) no-repeat;
 }
 .expertisecloudimg {
-    background: url(../images/service/cloud.png) no-repeat;
+    background: url(..../images/cloud.png) no-repeat;
 }
 .expertiseapiimg {
-    background: url(../images/service/api.png) no-repeat;
+    background: url(..../images/api.png) no-repeat;
 }
 .portfolioimg {
-    background: url(../images/service/portfolio.png) no-repeat;
+    background: url(..../images/portfolio.png) no-repeat;
 }
 .aboutimg {
-    background: url(../images/service/about.png) no-repeat;
+    background: url(..../images/about.png) no-repeat;
 }
 .teamimg {
-    background: url(../images/service/team.png) no-repeat;
+    background: url(..../images/team.png) no-repeat;
 }
 .testimonialimg {
-    background: url(../images/service/quote.png) no-repeat;
+    background: url(..../images/quote.png) no-repeat;
 }
 .testimonialimg {
-    background: url(../images/service/quote.png) no-repeat;
+    background: url(..../images/quote.png) no-repeat;
 }
 .partnerimg {
-    background: url(../images/service/partner.png) no-repeat;
+    background: url(..../images/partner.png) no-repeat;
 }
 .errorimg {
-    background: url(../images/service/404.png) no-repeat;
+    background: url(..../images/404.png) no-repeat;
 }
 .businessimg {
-    background: url(../images/service/application-blue.png) no-repeat;
+    background: url(..../images/application-blue.png) no-repeat;
 }
 .ecommerceimg {
-    background: url(../images/service/ecommerce-blue.png) no-repeat;
+    background: url(..../images/ecommerce-blue.png) no-repeat;
 }
 .cmsimg {
-    background: url(../images/service/cms.png) no-repeat;
+    background: url(..../images/cms.png) no-repeat;
 }*/
 .rportf {
     border-top: 1px #ececec dashed;
@@ -825,7 +825,7 @@ input.inputtext.big {width:400px;}
  .cite {
     font-style: italic;
     font-size: 18px;
-    background: url("/images/cite.png") no-repeat scroll left top transparent;
+    background: url("../images/cite.png") no-repeat scroll left top transparent;
     display: block;
     /*font-family: Cambria,Calibri, 'MyCalibri',Arial;*/
     padding: 15px 0 0 77px !important;
@@ -837,19 +837,19 @@ input.inputtext.big {width:400px;}
     
 }
 .webdesign {
-    background: url("/images/service/webdesign.png") no-repeat scroll left top transparent;
+    background: url("../images/webdesign.png") no-repeat scroll left top transparent;
 }
 .mobile {
-    background: url("/images/service/mobile.png") no-repeat scroll left top transparent;
+    background: url("../images/mobile.png") no-repeat scroll left top transparent;
 }
 .webapplication {
-    background: url("/images/service/webapplication.png") no-repeat scroll left top transparent;
+    background: url("../images/webapplication.png") no-repeat scroll left top transparent;
 }
 .startup {
-    background: url("/images/service/startup.png") no-repeat scroll left top transparent;
+    background: url("../images/startup.png") no-repeat scroll left top transparent;
 }
 .htmlcss {
-    background: url("/images/service/htmlcss.png") no-repeat scroll left top transparent;
+    background: url("../images/htmlcss.png") no-repeat scroll left top transparent;
 }
 .cite_author {
     font-weight: bold;
@@ -1462,61 +1462,61 @@ b.caret {
     color: #1F6C93 !important;
 }
 .sweb {
-    background: url("/images/service/web-blue.png") no-repeat 50% 0;
+    background: url("../images/web-blue.png") no-repeat 50% 0;
 }
 .sapp {
-    background: url("/images/service/application-blue.png") no-repeat 50% 0;
+    background: url("../images/application-blue.png") no-repeat 50% 0;
 }
 .smobile {
-    background: url("/images/service/mobile-blue.png") no-repeat 50% 0;
+    background: url("../images/mobile-blue.png") no-repeat 50% 0;
 }
 .secommerce {
-    background: url("/images/service/ecommerce-blue.png") no-repeat 50% 0;
+    background: url("../images/ecommerce-blue.png") no-repeat 50% 0;
 }
 .sweb:hover {
-    background: url("/images/service/web-dark.png") no-repeat 50% 0;
+    background: url("../images/web-dark.png") no-repeat 50% 0;
 }
 .sapp:hover {
-    background: url("/images/service/application-dark.png") no-repeat 50% 0;
+    background: url("../images/application-dark.png") no-repeat 50% 0;
 }
 .smobile:hover {
-    background: url("/images/service/mobile-dark.png") no-repeat 50% 0;
+    background: url("../images/mobile-dark.png") no-repeat 50% 0;
 }
 .secommerce:hover {
-    background: url("/images/service/ecommerce-dark.png") no-repeat 50% 0;
+    background: url("../images/ecommerce-dark.png") no-repeat 50% 0;
 }
 .s30-home {
-    background: url("/images/service/30-dark.png") no-repeat 50% 0;
+    background: url("../images/30-dark.png") no-repeat 50% 0;
 }
 .s6-home {
-    background: url("/images/service/6-dark.png") no-repeat 50% 0;
+    background: url("../images/6-dark.png") no-repeat 50% 0;
 }
 .s62-home {
-    background: url("/images/service/62-dark.png") no-repeat 50% 0;
+    background: url("../images/62-dark.png") no-repeat 50% 0;
 }
 .s100-home {
-    background: url("/images/service/100-dark.png") no-repeat 50% 0;
+    background: url("../images/100-dark.png") no-repeat 50% 0;
 }
 .stech-home {
-    background: url("/images/service/tech-dark.png") no-repeat 50% 0;
+    background: url("../images/tech-dark.png") no-repeat 50% 0;
 }
 .sbulb-home {
-    background: url("/images/service/bulb-dark.png") no-repeat 50% 0;
+    background: url("../images/bulb-dark.png") no-repeat 50% 0;
 }
 .sstab-home {
-    background: url("/images/service/stab-dark.png") no-repeat 50% 0;
+    background: url("../images/stab-dark.png") no-repeat 50% 0;
 }
 .sweb-home {
-    background: url("/images/service/web-dark.png") no-repeat 50% 0;
+    background: url("../images/web-dark.png") no-repeat 50% 0;
 }
 .sapp-home {
-    background: url("/images/service/application-dark.png") no-repeat 50% 0;
+    background: url("../images/application-dark.png") no-repeat 50% 0;
 }
 .smobile-home {
-    background: url("/images/service/mobile-dark.png") no-repeat 50% 0;
+    background: url("../images/mobile-dark.png") no-repeat 50% 0;
 }
 .secommerce-home {
-    background: url("/images/service/ecommerce-dark.png") no-repeat 50% 0;
+    background: url("../images/ecommerce-dark.png") no-repeat 50% 0;
 }
 .servtop {
     border-bottom: 1px solid #ECECEC;
