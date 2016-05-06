@@ -1,32 +1,3 @@
-<!-- footer script  -->
-<script type="text/javascript" src="./js/hoverIntent.js"></script>
-<script type="text/javascript" src="./js/superfish.js"></script>
-<script type="text/javascript" src="./js/jquery.bgiframe.min.js"></script>
-<script type="text/javascript" src="./js/supersubs.js"></script>
-<script type="text/javascript" src="./js/jquery.carouFredSel-6.1.0-packed.js"></script>
-<script type="text/javascript" src="./js/jquery.mousewheel.min.js"></script>
-<script type="text/javascript" src="./js/jquery.touchSwipe.min.js"></script>
-<script type="text/javascript" src="./js/slidebars.min.js"></script>
-<script type="text/javascript" src="./js/custom.js"></script>
-<!---->
-
-<script type="text/javascript" src="js/jquery.bxslider.js"></script>
-<script type="text/javascript">
-    $(document).ready(function() {
-        $('.bxslider').bxSlider({
-            auto: false,
-            easing: 'ease-in-out',
-            touchEnabled: true,
-            oneToOneTouch: true,
-            controls: false,
-            nextText: 'next',
-            prevText: 'prev',
-            pager: true,
-            speed: 650,
-            pause: 8500
-        });
-    });
-</script>
 <style>
     #text {
         padding-bottom: 230px;    
@@ -43,8 +14,8 @@
             <div class="contr_company span2">
                 <a href="index.php">Company</a>
                 <ul>
-                    <li><a href="#" title="About us">About us</a></li>
-                    <li><a href="#" title="Process">Process</a></li>
+                    <li><a href="AboutUs.php" title="About us">About us</a></li>
+                    <li><a href="Process.php" title="Process">Process</a></li>
                 </ul>
             </div>
             <div class="contr_services span3">
@@ -64,13 +35,13 @@
                 <a href="Services.php">Services</a>
             </div>
             <ul class="footer_nav en">
-                <li><a href="#">Home</a> </li>
+                <li><a href="index.php">Home</a> </li>
                 <li><a href="Solutions.php">Solutions</a> </li>
                 <li><a href="Services.php">Services</a> </li>
                 <li><a href="WebExpertise.php">Expertise</a> </li>
-                <li><a href="#">Work</a> </li>
-                <li><a href="#">Company</a> </li>
-                <li><a href="#">Contact</a> </li>
+                <li><a href="Work.php">Work</a> </li>
+                <li><a href="AboutUs.php">Company</a> </li>
+                <li><a href="Contact.php">Contact</a> </li>
             </ul>    
             <div class="footer_third_column span4">
                 <p><b style="text-transform: none; font-size: 20px;">CONTACT US</b></p>
@@ -109,17 +80,17 @@
             </li>
             <li><a href="#" class="sb-toggle-submenu">Expertise<span class="sb-caret"></span></a>
                 <ul class="sb-submenu">
-                    <li><a href=#">Expertise</a></li>
-                    <li><a href="#">Web</a></li>
-                    <li><a href="#">Mobile</a></li>
-                    <li><a href="#">Cloud</a></li>
-                    <li><a href="#">API</a></li>
+                    <li><a href=Expertise.php">Expertise</a></li>
+                    <li><a href="WebExpertise.php">Web</a></li>
+                    <li><a href="MobileExpertise.php">Mobile</a></li>
+                    <li><a href="CloudExpertise.php">Cloud</a></li>
+                    <li><a href="ApiExpertise.php">API</a></li>
                 </ul>
             </li>
-            <li><a href="#" class="sb-open-right">Work</a>            </li>
-            <li><a href="#" class="sb-toggle-submenu">Company<span class="sb-caret"></span></a>
+            <li><a href="Work.php" class="sb-open-right">Work</a>            </li>
+            <li><a href="AboutUs.php" class="sb-toggle-submenu">Company<span class="sb-caret"></span></a>
                 <ul class="sb-submenu">
-                    <li><a href="#">About us</a></li>
+                    <li><a href="AboutUs.php">About us</a></li>
                     <li><a href="Process.php">Process</a></li>
                 </ul>
             </li>

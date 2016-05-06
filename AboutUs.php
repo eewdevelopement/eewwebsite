@@ -108,7 +108,7 @@
                     <div class="row-fluid">
                         <div class="span9 m-cont">
                             <h1>About Us</h1>
-                            <p>StableFlow provides only the best practices in Web and Mobile application development since 2009.</p>
+                            <p>EEW provides only the best practices in Web and Mobile application development since 2009.</p>
                             <!--
                             <p>We have started with a small team of web programmers. Since that time we have been engaged by businesses, individuals, software development outsourcing companies and technology startups for which we successfully completed more than a hundred of projects and earned high client satisfaction.</p>
                             -->

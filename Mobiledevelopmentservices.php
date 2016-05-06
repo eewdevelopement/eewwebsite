@@ -105,10 +105,10 @@
                                 <span class="icon-bar"></span>
                             </a>
                         </div>    
-                        <a href="http://www.#.com/" class="logo small_displ" title="Home"></a>
+                        <a href="#" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
-                                <a class="header_sep hl3 hlink" href="mailto:sales@#.com">sales@#.com</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                                 <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                     </div>
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.#.com/mobile-development/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
@@ -173,38 +173,38 @@
                             <p>The true advantage of developing mobile web application is cross platform compatibility that reduces costs for development of multiple mobile platforms.</p>
                             <p>The major concern is that mobile web apps can access a limited amount of the device’s native features and information (orientation, geolocation, media, etc.) Such features as feedback mechanics like vibration and sounds, gyroscope physics, etc. not available.</p>
                             <h3>Mobile games</h3>
-                            <p>StableFlow provides mobile game development services for creating both 2D &amp; 3D custom game applications for Android and iOS based mobile devices.</p>
+                            <p>EEW provides mobile game development services for creating both 2D &amp; 3D custom game applications for Android and iOS based mobile devices.</p>
                         </div>
                         <div class="span3 sb-cont">    
                             <div class="sidebarmenu">
                                 <ul>
 
-                                    <li><a href="http://www.#.com/solutions/" title="Solutions">Solutions</a></li>
+                                    <li><a href="Solution.php" title="Solutions">Solutions</a></li>
 
 
-                                    <li><a href="http://www.#.com/web-development/" title="Website Development">Website Development</a></li>
+                                    <li><a href="WebDevelopmentServices.php" title="Website Development">Website Development</a></li>
 
 
-                                    <li class="active"><a href="http://www.#.com/mobile-development/" title="Mobile Applications">Mobile Applications</a></li>
+                                    <li class="active"><a href="Mobiledevelopmentservices.php" title="Mobile Applications">Mobile Applications</a></li>
 
 
-                                    <li><a href="http://www.#.com/cms/" title="CMS Solutions">CMS Solutions</a></li>
+                                   <li><a href="CMSsolution.php" title="CMS Solutions">CMS Solutions</a></li>
 
 
-                                    <li><a href="http://www.#.com/e-commerce/" title="E-commerce Solutions">E-commerce Solutions</a></li>
+                                    <li><a href="E-commerceSolutions.php" title="E-commerce Solutions">E-commerce Solutions</a></li>
 
 
-                                    <li><a href="http://www.#.com/cloud/" title="Cloud Solutions">Cloud Solutions</a></li>
+                                    <li><a href="CloudSolution.php" title="Cloud Solutions">Cloud Solutions</a></li>
 
 
-                                    <li><a href="http://www.#.com/workflow-automation/" title="Business Process Automation">Business Process Automation</a></li>
+                                    <li><a href="CustomBusinessApplicationDevelopmentServices.php" title="Business Process Automation">Business Process Automation</a></li>
 
 
-                                    <li><a href="http://www.#.com/social-networking/" title="Social Networking">Social Networking</a></li>
+                                    <li><a href="SocialNetworkingservices.php" title="Social Networking">Social Networking</a></li>
 
 
-                                    <li><a href="http://www.#.com/media-content-distribution/" title="Media Content Distribution">Media Content Distribution</a></li>
-                                </ul>
+                                    <li><a href="MediaContentDistribution.php" title="Media Content Distribution">Media Content Distribution</a></li>
+</ul>
                             </div>
                         </div>
                     </div>

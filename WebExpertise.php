@@ -14,7 +14,7 @@
                 <div id="language-header" style="margin-top: 15px; color: #0861CF;">
                     <div class="phones">
                         <span>email:</span>
-                        <a href="mailto:sales@#.com">sales@#.com</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -148,16 +148,18 @@
                             <div class="sidebarmenu">
                                 <ul>
 
-                                    <li><a href="http://www.#.com/expertise/" title="Expertise">Expertise</a></li>
+                                    <li><a href="Expertise.php" title="Expertise">Expertise</a></li>
 
 
-                                    <li class="active"><a href="http://www.#.com/expertise-web/" title="Web">Web</a></li>
+                                    <li class="active"><a href="WebExpertise.php" title="Web">Web</a></li>
 
 
-                                    <li><a href="http://www.#.com/expertise-mobile/" title="Mobile">Mobile</a></li>
+                                    <li><a href="MobileExpertise.php" title="Mobile">Mobile</a></li>
 
 
-                                    <li><a href="http://www.#.com/expertise-cloud/" title="Cloud">Cloud</a></li>
+                                    <li><a href="CloudExpertise.php" title="Cloud">Cloud</a></li>
+                                   
+                                    <li><a href="ApiExpertise.php" title="Cloud">API</a></li>
 
 
 

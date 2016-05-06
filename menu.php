@@ -21,8 +21,9 @@
     <li class=" dropdown"><a href="Expertise.php" class="dropdown-toggle" data-toggle="dropdown">Expertise<b class="caret"></b></a>
         <ul class="dropdown-men" style="display: none; left: auto;">
             <li class="active"><a href="WebExpertise.php">Web</a></li>
-            <li><a href="Mobiledevelopmentservices.php">Mobile</a></li>
-            <li><a href="CloudSolution.php">Cloud</a></li>
+            <li><a href="MobileExpertise.php">Mobile</a></li>
+            <li><a href="CloudExpertise.php">Cloud</a></li>
+            <li><a href="ApiExpertise.php">API</a></li>
             
         </ul>
     </li>

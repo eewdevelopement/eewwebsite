@@ -101,74 +101,102 @@
             </div>
         </div>
         <!--SAGAR ADD CODE BELOW-->        
-        <div id="sb-site" style="min-height: 609px;">
+        <div id="sb-site" style="min-height: 683px;">
             <div id="text">
 
                 <div class="main-cont container">
                     <div class="row-fluid">
                         <div class="span9 m-cont">    
-                            <h1 class="expertiseapiimg">Our Expertise</h1>
-                            <div class="row-fluid">
-                                <div class="left span6">
-                                    <h3>Project Type Expertise</h3>
-                                    <ul>
-                                        <li><a href="WebDevelopmentServices.php">Website &amp; Web portals</a></li>
-                                        <li><a href="#">Single-page applications (SPA)</a></li>
-                                        <li><a href="CMSsolution.php">Content Management Systems (CMS)</a></li>
-                                        <li><a href="E-commerceSolutions.php">Online stores &amp; Mobile E-commerce</a></li>
-                                        <li><a href="#">Software-as-a-Service (SAAS)</a></li>
-                                        <li><a href="#">Business Process Automation (CRM, ERP, ...)</a></li>
-                                        <li><a href="SocialNetworkingservices.php">Social Media Applications</a></li>
-                                        <li><a href="Mobiledevelopmentservices.php">Mobile Applications</a></li>
-                                        <li><a href="#">Mobile Games</a></li>
-                                        <li><a href="#">SmartTV Applications</a></li>
-                                    </ul>
-                                </div>
-                                <div class="right span6">
-                                    <h3>Business Domain Expertise</h3>  
-                                    <ul>
-                                        <li class=""><a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a></li>
-
-                                        <li class=""><a href="#">Travel &amp; Booking</a></li>
-
-                                        <li class=""><a href="#">Communities &amp; Networks</a></li>
-
-                                        <li class=""><a href="#">Telecommunications</a></li>
-
-                                        <li class=""><a href="#">Arts &amp; Entertainment</a></li>
-
-                                        <li class=""><a href="#">Media Distribution</a></li>
-
-                                        <li class="active"><a href="#">News and Publications</a></li>
-
-                                        <li class=""><a href="#">Customer Management</a></li>
-
-                                        <li class=""><a href="#">eLearning &amp; Online Training</a></li>
-
-                                        <li class=""><a href="#">Sport &amp; Health</a></li>
-
-                                        <li class=""><a href="#">Business</a></li>
-                                    </ul>
-                                </div>
-                            </div>
+                            <h1 class="expertisemobileimg">Our Expertise - Mobile</h1>
+                            <table class="expertise">
+                                <tbody><tr>
+                                        <td class="first">Mobile OS</td>
+                                        <td>
+                                            <ul>
+                                                <li>iOS</li>
+                                                <li>Android</li>
+                                            </ul>
+                                        </td>
+                                    </tr>    
+                                    <tr>
+                                        <td class="first">Languages</td>
+                                        <td>
+                                            <ul>
+                                                <li>Java</li>
+                                                <li>Objective-C</li>
+                                                <li>Swift</li>
+                                                <li>XML</li>
+                                            </ul>
+                                        </td>
+                                    </tr>    
+                                    <tr>
+                                        <td class="first">Global Web Services Integration</td>
+                                        <td>
+                                            <ul>
+                                                <li>Social Media (Facebook, YouTube, Twitter, Google+)</li>
+                                                <li>Google APIs, including Google Maps</li>
+                                            </ul>
+                                        </td>
+                                    </tr>    
+                                    <tr>
+                                        <td class="first">App Stores Compatibility</td>
+                                        <td>
+                                            <ul>
+                                                <li>Apple Store</li>
+                                                <li>Google Play</li>
+                                            </ul>
+                                        </td>
+                                    </tr>    
+                                    <tr>
+                                        <td class="first">Technologies</td>
+                                        <td>
+                                            <ul>
+                                                <li>iOS SDK</li>
+                                                <li>Android SDK</li>
+                                                <li>Android Native Development Kit (NDK)</li>
+                                                <li>Android DT (ADT)</li>
+                                                <li>Core Graphics</li>
+                                                <li>Core Animation</li>
+                                                <li>Cocos2D</li>
+                                                <li>Unity3D</li>
+                                                <li>Export Maya animation</li>
+                                                <li>Video clip creation</li>
+                                                <li>Barcode Scanning</li>
+                                                <li>MapKit</li>
+                                                <li>Web API integration</li>
+                                                <li>Push notifications</li>
+                                                <li>Multiplayer gaming</li>
+                                                <li>Chat between players</li>
+                                                <li>QuartzCore</li>
+                                                <li>Caching images</li>
+                                                <li>Audio streaming</li>
+                                                <li>PayPal SDK</li>
+                                                <li>Sqlite database</li>
+                                                <li>Music Library Access</li>
+                                                <li>Game Center</li>
+                                            </ul>
+                                        </td>
+                                    </tr>    
+                                </tbody></table>
                         </div>
                         <div class="span3 sb-cont">    
                             <div class="sidebarmenu">
                                 <ul>
 
-                                    <li class="active"><a href="Expertise.php" title="Expertise">Expertise</a></li>
+                                    <li><a href="Expertise.php" title="Expertise">Expertise</a></li>
 
 
                                     <li><a href="WebExpertise.php" title="Web">Web</a></li>
 
 
-                                    <li><a href="MobileExpertise.php" title="Mobile">Mobile</a></li>
+                                    <li class="active"><a href="MobileExpertise.php" title="Mobile">Mobile</a></li>
 
 
                                     <li><a href="CloudExpertise.php" title="Cloud">Cloud</a></li>
 
+                                    <li><a href="ApiExpertise.php" title="Cloud">API</a></li>
 
-                                    <li><a href="ApiExpertise.php" title="API">API</a></li>
+
 
 
 

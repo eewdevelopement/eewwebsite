@@ -89,10 +89,10 @@
                     <a href="tel:+4402081448618">+44 020 8144 8618</a>
                     -->
                     <span>email:</span>
-                    <a href="mailto:sales@stableflow.com">sales@stableflow.com</a>
+                    <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                 </div>
                 <div class="request_btn">
-                    <span class="btn_grey"><a href="http://www.stableflow.com/contact/" title="">Calculate your project's development cost »</a></span>                
+                    <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
                 </div>    
             </div>
         </div>
@@ -106,11 +106,11 @@
                             <span class="icon-bar"></span>
                         </a>
                     </div>    
-                    <a href="http://www.stableflow.com/" class="logo small_displ" title="Home"></a>
+                    <a href="index.php" class="logo small_displ" title="Home"></a>
                     <div class="container small">
                         <div class="rfp">
-                            <a class="header_sep hl3 hlink" href="mailto:sales@stableflow.com">sales@stableflow.com</a>
-                            <a href="http://www.stableflow.com/contact/" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
+                            <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
+                            <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                         </div>
                     </div>
                     <div class="nav-collapse collapse navbar-inverse-collapse" style="font-size: 20px;">
@@ -119,7 +119,7 @@
                 </div><!-- /navbar-inner -->
             </div>
             <div id="pcat">
-                <span class="btn_grey" style="margin: 0;"><a href="http://www.stableflow.com/e-commerce/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
             </div>
         </div>
     </div>
@@ -130,7 +130,7 @@
                 <div class="row-fluid">
                     <div class="span9 m-cont">    
                         <h1 class="ecommerceimg">E-commerce solutions</h1>
-                        <p>StableFlow provides solutions for building an e-commerce applications of any size:</p>
+                        <p>EEW provides solutions for building an e-commerce applications of any size:</p>
                         <ul>
                             <li>Online Stores</li>
                             <li>B2B and B2C Marketplaces</li>
@@ -163,35 +163,16 @@
                         <div class="sidebarmenu">
                             <ul>
 
-                                <li><a href="http://www.stableflow.com/solutions/" title="Solutions">Solutions</a></li>
-
-
-                                <li><a href="http://www.stableflow.com/web-development/" title="Website Development">Website Development</a></li>
-
-
-                                <li><a href="http://www.stableflow.com/mobile-development/" title="Mobile Applications">Mobile Applications</a></li>
-
-
-                                <li><a href="http://www.stableflow.com/cms/" title="CMS Solutions">CMS Solutions</a></li>
-
-
-                                <li class="active"><a href="http://www.stableflow.com/e-commerce/" title="E-commerce Solutions">E-commerce Solutions</a></li>
-
-
-                                <li><a href="http://www.stableflow.com/cloud/" title="Cloud Solutions">Cloud Solutions</a></li>
-
-
-                                <li><a href="http://www.stableflow.com/workflow-automation/" title="Business Process Automation">Business Process Automation</a></li>
-
-
-                                <li><a href="http://www.stableflow.com/social-networking/" title="Social Networking">Social Networking</a></li>
-
-
-                                <li><a href="http://www.stableflow.com/media-content-distribution/" title="Media Content Distribution">Media Content Distribution</a></li>
-
-
-
-                            </ul>
+                                <li><a href="Solution.php" title="Solutions">Solutions</a></li>
+                                    <li><a href="WebDevelopmentServices.php" title="Website Development">Website Development</a></li>
+                                    <li><a href="Mobiledevelopmentservices.php" title="Mobile Applications">Mobile Applications</a></li>
+                                    <li><a href="CMSsolution.php" title="CMS Solutions">CMS Solutions</a></li>
+                                    <li class="active"><a href="E-commerceSolutions.php" title="E-commerce Solutions">E-commerce Solutions</a></li>
+                                    <li><a href="CloudSolution.php" title="Cloud Solutions">Cloud Solutions</a></li>
+                                    <li><a href=CustomBusinessApplicationDevelopmentServices.php" title="Business Process Automation">Business Process Automation</a></li>
+                                    <li><a href="SocialNetworkingservices.php" title="Social Networking">Social Networking</a></li>
+                                    <li><a href="Mobiledevelopmentservices.php" title="Media Content Distribution">Media Content Distribution</a></li>
+                                </ul>
                         </div>
                     </div>
                 </div>

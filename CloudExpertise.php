@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html class="sb-init">
     <?php include './header.php'; ?>
     <body>
         <style>
             #home_banner
             {
-                background: url('/slider/slider-agency1.jpg') no-repeat 0 50%;
+                background: url('images/banner/slider-agency1.jpg') no-repeat 0 50%;
                 height: 800px;
             }
             .home_title {
@@ -61,31 +60,13 @@
         <div id="header" class="clearfix">
             <div class="container" style="height: 100px;" id="header-top">
                 <div class="new-year-hat">
-                    <!--div class="santa-hat">
-                            <img alt="" src="http://#/images/santa-hat.png" />
-                    </div>
-                    <div class="snow snow-one">
-                            <img alt="" src="http://#/images/snow.png" />
-                    </div>
-                    <div class="snow snow-two">
-                            <img alt="" src="http://#/images/snow.png" />
-                    </div>
-                    <div class="snow snow-three">
-                            <img alt="" src="http://#/images/snow.png" />
-                    </div-->
                     <a title="Home" class="logo" href=""></a>	
                 </div>
 
                 <div id="language-header" style="margin-top: 15px; color: #0861CF;">
                     <div class="phones">
-                        <!--
-                        <span>us:</span>
-                        <a href="tel:+17183953674">+1 718 395 3674</a>
-                        <span>uk:</span>
-                        <a href="tel:+4402081448618">+44 020 8144 8618</a>
-                        -->
                         <span>email:</span>
-                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
+                        <a href="mailto:sales@eewtech.in">sales@#</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -105,8 +86,7 @@
                         <a href="index.php" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
-
-                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@#</a>
                                 <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
@@ -116,44 +96,53 @@
                     </div> 
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="CMSsolution.php" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
-        <div id="sb-site" style="min-height: 609px;">
+        <!--SAGAR ADD CODE BELOW-->        
+        <div id="sb-site" style="min-height: 639px;">
             <div id="text">
 
                 <div class="main-cont container">
                     <div class="row-fluid">
                         <div class="span9 m-cont">    
-                            <h1 class="businessimg">Business Process Automation</h1>
-                            <h3>Effective business process management</h3>
-                            <p>EEW provides services to develop, implement and integrate custom business solutions that allows reduce resource requirements and operating costs by automating business processes, enable effective management and enhance the productivity of organization.</p>        
-                            <p>Our expertise covers all the main domains allowing us to support business processes:</p>
-                            <ul>
-                                <li>Customer Relationship Management (CRM)</li>
-                                <li>Workflow Automation and Task Management</li>
-                                <li>Appointments Scheduling</li>
-                                <li>Inventory Management</li>
-                                <li>Accounting &amp; Billing</li>
-                                <li>Paperless Filing</li>
-                            </ul>
-                            <p>and more...</p>
-                            <h3>Long-term partnership</h3>
-                            <p>EEW is focused on long-term partnership providing careful step-by-step project execution with clear deliverables at each phase, full cycle implementation, maintenance and improvement of the solutions created.</p>
+                            <h1 class="expertisecloudimg">Our Expertise - Cloud computing</h1>
+                            <table class="expertise">
+                                <tbody><tr>
+                                        <td>Cloud Computing</td>
+                                        <td>
+                                            <ul>
+                                                <li>Amazon Web Services</li>
+                                                <li>Rackspace Cloud</li>
+                                                <li>Google Cloud Platform</li>
+                                                <li>Google App Engine</li>
+                                                <li>Digital Ocean</li>
+                                            </ul>
+                                        </td>
+                                    </tr>    
+                                </tbody></table>
                         </div>
                         <div class="span3 sb-cont">    
                             <div class="sidebarmenu">
                                 <ul>
-                                    <li><a href="Solution.php" title="Solutions">Solutions</a></li>
-                                    <li><a href="WebDevelopmentServices.php" title="Website Development">Website Development</a></li>
-                                    <li><a href="Mobiledevelopmentservices.php" title="Mobile Applications">Mobile Applications</a></li>
-                                    <li><a href="CMSsolution.php" title="CMS Solutions">CMS Solutions</a></li>
-                                    <li><a href="E-commerceSolutions.php" title="E-commerce Solutions">E-commerce Solutions</a></li>
-                                    <li><a href="CloudSolution.php" title="Cloud Solutions">Cloud Solutions</a></li>
-                                    <li class="active"><a href=CustomBusinessApplicationDevelopmentServices.php" title="Business Process Automation">Business Process Automation</a></li>
-                                    <li><a href="SocialNetworkingservices.php" title="Social Networking">Social Networking</a></li>
-                                    <li><a href="Mobiledevelopmentservices.php" title="Media Content Distribution">Media Content Distribution</a></li>
+
+                                    <li><a href="Expertise.php" title="Expertise">Expertise</a></li>
+
+
+                                    <li><a href="WebExpertise.php" title="Web">Web</a></li>
+
+
+                                    <li><a href="MobileExpertise.php" title="Mobile">Mobile</a></li>
+
+
+                                    <li class="active"><a href="CloudExpertise.php" title="Cloud">Cloud</a></li>
+
+
+                                    <li><a href="ApiExpertise.php" title="API">API</a></li>
+
+
+
                                 </ul>
                             </div>
                         </div>
@@ -161,6 +150,7 @@
                 </div>
             </div>
         </div>
+        <!--SAGAR ADD CODE BELOW--> 
         <?php include './footer.php'; ?>
     </body>
 </html>
