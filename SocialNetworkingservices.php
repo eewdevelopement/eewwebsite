@@ -111,7 +111,7 @@
                     <div class="row-fluid">
                         <div class="span9 m-cont">    
                             <h1 class="expertisewebimg">Social Networking</h1>
-                            <h3>Start your Social Networking project with StableFlow</h3>
+                            <h3>Start your Social Networking project with EEW </h3>
                             <p>At EEW you will find a winning solution for your Social Networking project.</p>
                             <p>To make your solution easy to develop, maintain, scale and update in the future, EEW offers:</p>
                             <ul>

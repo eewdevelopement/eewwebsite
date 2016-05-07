@@ -87,10 +87,10 @@
                         <a href="tel:+4402081448618">+44 020 8144 8618</a>
                         -->
                         <span>email:</span>
-                        <a href="mailto:sales@stableflow.com">sales@stableflow.com</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
-                        <span class="btn_grey"><a href="http://www#/contact/" title="">Calculate your project's development cost »</a></span>                
+                        <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
                     </div>    
                 </div>
             </div>
@@ -101,7 +101,7 @@
             </div><!-- /navbar-inner -->
         </div>
         <div id="pcat">
-            <span class="btn_grey" style="margin: 0;"><a href="http://www#/solutions/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+            <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
         </div>
     </div>
 </div>
@@ -123,13 +123,13 @@
                     <h1>Solutions</h1>
                     <div class="row-fluid">
                         <div class="left span6">
-                            <a class="servlink1" href="http://www#/web-development/">WEBSITES AND WEB PORTALS</a>
+                            <a class="servlink1" href="WebDevelopmentAgency.php">WEBSITES AND WEB PORTALS</a>
                             <ul>
                                 <li>We design and develop various website projects from brochure sites to multi-functional web portals</li>
                             </ul>
                         </div>
                         <div class="right span6">
-                            <a class="servlink1" href="http://www#/mobile-development/">Mobile applications</a>
+                            <a class="servlink1" href="Mobiledevelopmentservices.php">Mobile applications</a>
                             <ul>
                                 <li>We design advanced mobile solutions for business, everyday tasks, communication, social networking and entertainment</li>
                             </ul>
@@ -137,13 +137,13 @@
                     </div>
                     <div class="row-fluid">
                         <div class="left span6">
-                            <a class="servlink1" href="http://www#/cms/">CONTENT AND DOCUMENT MANAGEMENT</a>
+                            <a class="servlink1" href="CMSsolution.php">CONTENT AND DOCUMENT MANAGEMENT</a>
                             <ul>
                                 <li>Our content management solutions are intended to help businesses manage and distribute information faster and more efficiently</li>
                             </ul>
                         </div>
                         <div class="right span6">
-                            <a class="servlink1" href="http://www#/e-commerce/">E-commerce and online payments</a>
+                            <a class="servlink1" href="E-commerceSolutions.php">E-commerce and online payments</a>
                             <ul>
                                 <li>We implement online stores, B2B and B2C marketplaces, comprehensive payments solutions, mobile e-commerce, in-app purchases</li>
                             </ul>   
@@ -151,13 +151,13 @@
                     </div>
                     <div class="row-fluid">
                         <div class="left span6">
-                            <a class="servlink1" href="http://www#/workflow-automation/">BUSINESS PROCESS AUTOMATION</a>
+                            <a class="servlink1" href="CustomBusinessApplicationDevelopmentServices.php">BUSINESS PROCESS AUTOMATION</a>
                             <ul>
                                 <li>We automate business processes by developing, implementing and integrating enterprise web solutions</li>
                             </ul>
                         </div>
                         <div class="right span6">
-                            <a class="servlink1" href="http://www#/social-networking/">SOCIAL NETWORKING</a>
+                            <a class="servlink1" href="SocialNetworkingservices.php">SOCIAL NETWORKING</a>
                             <ul>
                                 <li>We implement social networking features and build online communities</li>
                             </ul>
@@ -165,13 +165,13 @@
                     </div>
                     <div class="row-fluid">
                         <div class="left span6">
-                            <a class="servlink1" href="http://www#/cloud/">SAAS (SOFTWARE-AS-A-SERVICE)</a>
+                            <a class="servlink1" href="CloudSolution.php">SAAS (SOFTWARE-AS-A-SERVICE)</a>
                             <ul>
                                 <li>We develop Software-as-a-Service solutions (SaaS) which is highly scalable and runs in the Cloud</li>
                             </ul>
                         </div>
                         <div class="right span6">
-                            <a class="servlink1" href="http://www#/media-content-distribution/">MEDIA CONTENT DISTRIBUTION</a>
+                            <a class="servlink1" href="MediaContentDistribution.php">MEDIA CONTENT DISTRIBUTION</a>
                             <ul>
                                 <li>We offer solutions for media content distribution via the Web, Mobile, IPTV, Smart TV</li>
                             </ul>        
@@ -182,31 +182,31 @@
                     <div class="sidebarmenu">
                         <ul>
 
-                            <li class="active"><a href="http://www#/solutions/" title="Solutions">Solutions</a></li>
+                            <li class="active"><a href="Solution.php" title="Solutions">Solutions</a></li>
 
 
-                            <li><a href="http://www#/web-development/" title="Website Development">Website Development</a></li>
+                            <li><a href="WebDevelopmentServices.php" title="Website Development">Website Development</a></li>
 
 
-                            <li><a href="http://www#/mobile-development/" title="Mobile Applications">Mobile Applications</a></li>
+                            <li><a href="MobileExpertise.php" title="Mobile Applications">Mobile Applications</a></li>
 
 
-                            <li><a href="http://www#/cms/" title="CMS Solutions">CMS Solutions</a></li>
+                            <li><a href="CMSsolution.php" title="CMS Solutions">CMS Solutions</a></li>
 
 
-                            <li><a href="http://www#/e-commerce/" title="E-commerce Solutions">E-commerce Solutions</a></li>
+                            <li><a href="E-commerceSolutions.php" title="E-commerce Solutions">E-commerce Solutions</a></li>
 
 
-                            <li><a href="http://www#/cloud/" title="Cloud Solutions">Cloud Solutions</a></li>
+                            <li><a href="CloudSolution.php" title="Cloud Solutions">Cloud Solutions</a></li>
 
 
-                            <li><a href="http://www#/workflow-automation/" title="Business Process Automation">Business Process Automation</a></li>
+                            <li><a href="CustomBusinessApplicationDevelopmentServices.php" title="Business Process Automation">Business Process Automation</a></li>
 
 
-                            <li><a href="http://www#/social-networking/" title="Social Networking">Social Networking</a></li>
+                            <li><a href="SocialNetworkingservices.php" title="Social Networking">Social Networking</a></li>
 
 
-                            <li><a href="http://www#/media-content-distribution/" title="Media Content Distribution">Media Content Distribution</a></li>
+                            <li><a href="MediaContentDistribution.php" title="Media Content Distribution">Media Content Distribution</a></li>
 
 
 

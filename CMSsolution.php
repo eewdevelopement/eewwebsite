@@ -66,7 +66,7 @@
                 <div id="language-header" style="margin-top: 15px; color: #0861CF;">
                     <div class="phones">
                         <span>email:</span>
-                        <a href="mailto:sales@eewtech.in">sales@#</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                

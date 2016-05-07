@@ -85,7 +85,7 @@
                         <a href="tel:+4402081448618">+44 020 8144 8618</a>
                         -->
                         <span>email:</span>
-                        <a href="mailto:sales@#.com">sales@#.com</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -105,7 +105,7 @@
                         <a href="index.php" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
-                                <a class="header_sep hl3 hlink" href="mailto:sales@#.com">sales@#.com</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                                 <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>

@@ -87,10 +87,10 @@
                         <a href="tel:+4402081448618">+44 020 8144 8618</a>
                         -->
                         <span>email:</span>
-                        <a href="mailto:sales@#.com">sales@#.com</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
-                        <span class="btn_grey"><a href="http://www.#.com/contact/" title="">Calculate your project's development cost »</a></span>                
+                        <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
                     </div>    
                 </div>
             </div>
@@ -104,15 +104,15 @@
                                 <span class="icon-bar"></span>
                             </a>
                         </div>    
-                        <a href="http://www.#.com/" class="logo small_displ" title="Home"></a>
+                        <a href="index.php" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
                                 <!--
                                 <a class="header_sep hl1 hphone" href="tel:+17183953674">+1 718 395 3674</a>
                                 <a class="header_sep hl2 hphone" href="tel:+4402081448618">+44 020 8144 8618</a>
                                 -->
-                                <a class="header_sep hl3 hlink" href="mailto:sales@#.com">sales@#.com</a>
-                                <a href="http://www.#.com/contact/" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
+                                <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
                         <div class="nav-collapse collapse navbar-inverse-collapse" style="font-size: 20px;">
@@ -121,7 +121,7 @@
                     </div><!-- /navbar-inner -->
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.#.com/process/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>

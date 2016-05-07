@@ -88,7 +88,7 @@
                         <a href="tel:+4402081448618">+44 020 8144 8618</a>
                         -->
                         <span>email:</span>
-                        <a href="mailto:sales@#.com">sales@#.com</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -148,7 +148,7 @@
 
                                 <div class="row-fluid" style="border-bottom: 1px dashed #ECECEC;">
                                     <div class="span5" style="margin-bottom: 20px;">
-                                        <img width="340" height="200" alt="" src="./E-commerce &amp; Retail Portfolio _ StableFlow-OUR WORK - E-COMMERCE &amp; RETAIL_files/pwbcplwW_rr_screen.png" style="padding: 0;">
+                                        <img width="340" height="200" alt="" src="images/pwbcplwW_rr_screen.png" style="padding: 0;">
                                     </div>
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;">Rewards Platform</h3>    
@@ -156,14 +156,14 @@
                                         <p>Tags: <a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a>, <a href="Community&Network.php">Communities &amp; Networks</a>, <a href="WebDevelopmentAgency.php">Website</a>, <a href="Php.php">PHP</a>, <a href="html5.php">HTML5</a>, <a href="java.php">JAVA</a>, <a href="Bootstrap.php">Bootstrap</a></p>
 
                                         <div class="links">
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in/">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
                                         </div>
                                     </div>
                                 </div>
                                 <br>      
                                 <div class="row-fluid" style="border-bottom: 1px dashed #ECECEC;">
                                     <div class="span5" style="margin-bottom: 20px;">
-                                        <img width="340" height="200" alt="" src="./E-commerce &amp; Retail Portfolio _ StableFlow-OUR WORK - E-COMMERCE &amp; RETAIL_files/6v5A_Z92_svc.png" style="padding: 0;">
+                                        <img width="340" height="200" alt="" src="images/6v5A_Z92_svc.png" style="padding: 0;">
                                     </div>
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;"> E-commerce website with membership</h3>    
@@ -172,7 +172,7 @@
                                             StableFlow has developed custom e-commerce solution based on WordPress CMS, integrated with Limelight CRM and a number of third party services: MemberMouse, iContact, SurveyGizmo, Awe.sm, GetResponse</p>
                                         <p>Tags: <a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a>, <a href="Community&Network.php">Communities &amp; Networks</a>, <a href="WebDevelopmentAgency.php">Website</a>, <a href="E-commerceSolutions.php">E-commerce</a>, <a href="CMSsolution.php">CMS</a>, <a href="Php.php">PHP</a>, <a href="Wordpress.com">WordPress</a></p>
                                         <div class="links">
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="index.php">See Online</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -189,7 +189,7 @@
                                             EEW has developed custom decal creator. Custom e-commerce solution was developed using Authorize.NET API</p>
                                         <p>Tags: <a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a>, <a href="Arts-entertainment.php">Arts &amp; Entertainment</a>, <a href="WebDevelopmentAgency.php">Website</a>, <a href="E-commerceSolutions.php">E-commerce</a>, <a href="CMSsolution.php">CMS</a>, <a href="Php.php">PHP</a></p>
                                         <div class="links">
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="index.php">See Online</a></span>
                                         </div>
                                     </div>
                                 </div>
@@ -211,7 +211,7 @@
                                         <div class="links">
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="https://itunes.apple.com/gb/app/zapper.co.uk-sell-your-books/id654706510">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -221,7 +221,7 @@
 
                                 <div class="row-fluid" style="border-bottom: 1px dashed #ECECEC;">
                                     <div class="span5" style="margin-bottom: 20px;">
-                                        <img width="340" height="200" alt="" src="./E-commerce &amp; Retail Portfolio _ StableFlow-OUR WORK - E-COMMERCE &amp; RETAIL_files/HHPxWBeA_ppgtrader.png" style="padding: 0;">
+                                        <img width="340" height="200" alt="" src="images/HHPxWBeA_ppgtrader.png" style="padding: 0;">
                                     </div>
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;">PPG Equipment website</h3>    
@@ -234,7 +234,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://www.eewtech.in/">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
 
@@ -245,7 +245,7 @@
 
                                 <div class="row-fluid" style="border-bottom: 1px dashed #ECECEC;">
                                     <div class="span5" style="margin-bottom: 20px;">
-                                        <img width="340" height="200" alt="" src="./E-commerce &amp; Retail Portfolio _ StableFlow-OUR WORK - E-COMMERCE &amp; RETAIL_files/QfHzKYHD_atmad.png" style="padding: 0;">
+                                        <img width="340" height="200" alt="" src="images/QfHzKYHD_atmad.png" style="padding: 0;">
                                     </div>
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;">Coupons application</h3>    
@@ -257,7 +257,7 @@
                                         <div class="links">
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="https://itunes.apple.com/en/app/atmap/id575529605?mt=8">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -269,7 +269,7 @@
                             <div class="clearfix" style="text-align: center;">
 
                             </div>
-                            <script type="text/javascript" language="javascript" src="./E-commerce &amp; Retail Portfolio _ StableFlow-OUR WORK - E-COMMERCE &amp; RETAIL_files/pagenavigator.js"></script>
+                            <script type="text/javascript" language="javascript" src="js/pagenavigator.js"></script>
                             <script>
                                 var page = new pagenavigatorObject('page', 15);
                                 $(document).ready(function() {

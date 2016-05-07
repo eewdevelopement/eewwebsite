@@ -99,7 +99,7 @@
                     </div>
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.eewtech.in/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@
                         <br>
                         <br>
                         <br>
-                        <p style="text-align: center;"><a href="http://#/services/" class="btn_transparent">Get Started Today With Developer</a></p>
+                        <p style="text-align: center;"><a href="Services.php" class="btn_transparent">Get Started Today With Developer</a></p>
                         <br>
                     </div>
                 </div>
@@ -198,27 +198,27 @@
                                 <div class="bx-viewport" style="width: 100%; overflow: hidden; position: relative; height: 175px;">
                                     <ul class="bxslider" style="width: 860%; position: relative; transition-timing-function: ease-in-out; transition-duration: 0s; transform: translate3d(-987px, 0px, 0px);">
                                         <li style="float: left; list-style: none; position: relative; width: 987px;" class="bx-clone">
-                                            <p class="cite">"We have been working with StableFlow for around a year. We have found them to be extremely professional and very pleasant to work with. Communication is excellent. We always receive replies to emails within a couple of hours, and project updates are frequent. They deliver every project on time, and on budget."</p>            
+                                            <p class="cite">"We have been working with EEW  for around a year. We have found them to be extremely professional and very pleasant to work with. Communication is excellent. We always receive replies to emails within a couple of hours, and project updates are frequent. They deliver every project on time, and on budget."</p>            
                                             <p class="author"><span>Lee Barlow</span><br>Managing Director, Splash Design Studio Ltd</p>
                                         </li>
                                         <li style="float: left; list-style: none; position: relative; width: 987px;">
-                                            <p class="cite">"Working with StableFlow is like having your own development team in your own office. Not only is their quality of work amazing, they are creative, professional, and on time with all of their deliveries. You will never have to worry about lack of communication, as they keep their clients updated with all stages of work. Highly recommended - a pleasure to work with."</p>            
+                                            <p class="cite">"Working with EEW  is like having your own development team in your own office. Not only is their quality of work amazing, they are creative, professional, and on time with all of their deliveries. You will never have to worry about lack of communication, as they keep their clients updated with all stages of work. Highly recommended - a pleasure to work with."</p>            
                                             <p class="author"><span>Brian Cozzy</span><br>Creative Director, Creative Cellutions</p>
                                         </li>
                                         <li style="float: left; list-style: none; position: relative; width: 987px;">
-                                            <p class="cite">"I cannot express how absolutely satisfied I was working with StableFlow. They were extremely knowledgeable in the programming skills required for my project, and were very responsive throughout every step of the process, not to mention they were quite patient with my many questions along the way. There were even some additional technical hurdles to my project I had not considered when I first proposed the project, and StableFlow was able to research and come up with very good solutions to those issues. I will ABSOLUTELY be using them again in the future. Great job guys!"</p>            
+                                            <p class="cite">"I cannot express how absolutely satisfied I was working with EEW . They were extremely knowledgeable in the programming skills required for my project, and were very responsive throughout every step of the process, not to mention they were quite patient with my many questions along the way. There were even some additional technical hurdles to my project I had not considered when I first proposed the project, and EEW  was able to research and come up with very good solutions to those issues. I will ABSOLUTELY be using them again in the future. Great job guys!"</p>            
                                             <p class="author"><span>Igor Vishnevskiy</span><br>Russian Google TV</p>
                                         </li>
                                         <li style="float: left; list-style: none; position: relative; width: 987px;">
-                                            <p class="cite">"I have worked with StableFlow on a large and ambitions web development project for the last 3 months. I have found them to be of exceptional value during the ongoing project. They have fantastic capability within the team and seem able to come up with a solution to any technical problem. I highly recommend StableFlow."</p>            
+                                            <p class="cite">"I have worked with EEW  on a large and ambitions web development project for the last 3 months. I have found them to be of exceptional value during the ongoing project. They have fantastic capability within the team and seem able to come up with a solution to any technical problem. I highly recommend EEW ."</p>            
                                             <p class="author"><span>Paul Doffman</span><br>Digital Marketing Manager, Visit West Lothian</p>
                                         </li>
                                         <li style="float: left; list-style: none; position: relative; width: 987px;">
-                                            <p class="cite">"We have been working with StableFlow for around a year. We have found them to be extremely professional and very pleasant to work with. Communication is excellent. We always receive replies to emails within a couple of hours, and project updates are frequent. They deliver every project on time, and on budget."</p>            
+                                            <p class="cite">"We have been working with EEW  for around a year. We have found them to be extremely professional and very pleasant to work with. Communication is excellent. We always receive replies to emails within a couple of hours, and project updates are frequent. They deliver every project on time, and on budget."</p>            
                                             <p class="author"><span>Lee Barlow</span><br>Managing Director, Splash Design Studio Ltd</p>
                                         </li>
                                         <li style="float: left; list-style: none; position: relative; width: 987px;" class="bx-clone">
-                                            <p class="cite">"Working with StableFlow is like having your own development team in your own office. Not only is their quality of work amazing, they are creative, professional, and on time with all of their deliveries. You will never have to worry about lack of communication, as they keep their clients updated with all stages of work. Highly recommended - a pleasure to work with."</p>            
+                                            <p class="cite">"Working with EEW  is like having your own development team in your own office. Not only is their quality of work amazing, they are creative, professional, and on time with all of their deliveries. You will never have to worry about lack of communication, as they keep their clients updated with all stages of work. Highly recommended - a pleasure to work with."</p>            
                                             <p class="author"><span>Brian Cozzy</span><br>Creative Director, Creative Cellutions</p>
                                         </li>
                                     </ul>

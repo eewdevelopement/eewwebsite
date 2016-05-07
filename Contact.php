@@ -89,7 +89,7 @@
                         <a href="index.php" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
-                                <a class="header_sep hl3 hlink" href="mailto:sales@#">sales@#</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                                 <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>

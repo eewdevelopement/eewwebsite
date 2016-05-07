@@ -66,7 +66,7 @@
                 <div id="language-header" style="margin-top: 15px; color: #0861CF;">
                     <div class="phones">
                         <span>email:</span>
-                        <a href="mailto:sales@eewtech.in">sales@#</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -86,7 +86,7 @@
                         <a href="index.php" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
-                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@#</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                                 <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
@@ -129,16 +129,16 @@
 
                                 <div class="row-fluid" style="border-bottom: 1px dashed #ECECEC;">
                                     <div class="span5" style="margin-bottom: 20px;">
-                                        <img width="340" height="200" alt="" src="./HTML5 Portoflio_files/pwbcplwW_rr_screen.png" style="padding: 0;">
+                                        <img width="340" height="200" alt="" src="images/pwbcplwW_rr_screen.png" style="padding: 0;">
                                     </div>
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;">Rewards Platform</h3>    
                                         <p>StableFlow has developed custom and powerful cloud-based rewarding platform. It combines all modern development and security approaches with scalable and modular role-based architecture. System was designed as high load web application, stress testing showed that it is able to handle more than 100000 users being online at the same time. External APIs integrated: Mandrill, DocuSign, Peanut Labs, Amazon S3, New Relic, Liverail.</p>
-                                        <p>Tags: <a href="http://www.stableflow.com/portfolio/ecommerce-retail/">E-commerce &amp; Retail</a>, <a href="http://www.stableflow.com/portfolio/communities-networks/">Communities &amp; Networks</a>, <a href="http://www.stableflow.com/portfolio/website/">Website</a>, <a href="http://www.stableflow.com/portfolio/php/">PHP</a>, <a href="http://www.stableflow.com/portfolio/html5/">HTML5</a>, <a href="http://www.stableflow.com/portfolio/yii/">Yii</a>, <a href="http://www.stableflow.com/portfolio/bootstrap/">Bootstrap</a></p>
+                                        <p>Tags: <a href="E-commerc&RetailPortfolio.php">E-commerce &amp; Retail</a>, <a href="Community&Network.php">Communities &amp; Networks</a>, <a href="WebDevelopmentServices.php">Website</a>, <a href="Php.php">PHP</a>, <a href="Html.php">HTML5</a>, <a href="http://www.stableflow.com/portfolio/yii/">Yii</a>, <a href="Boostrap.php">Bootstrap</a></p>
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="http://rewardrack.com/">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="index.php">See Online</a></span>
 
 
 
@@ -149,7 +149,7 @@
 
                                 <div class="row-fluid" style="border-bottom: 1px dashed #ECECEC;">
                                     <div class="span5" style="margin-bottom: 20px;">
-                                        <img width="340" height="200" alt="" src="http://www.stableflow.com/uploaded_files/images/6v5A_Z92_svc.png" style="padding: 0;">
+                                        <img width="340" height="200" alt="" src="i6v5A_Z92_svc.png" style="padding: 0;">
                                     </div>
                                     <div class="project_overview span7" style="margin-bottom: 20px;">    
                                         <h3 style="padding-top: 0 !important;"> E-commerce website with membership</h3>    

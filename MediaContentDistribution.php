@@ -112,7 +112,7 @@
                         <div class="span9 m-cont">    
                             <h1 class="expertisewebimg">Media Content Distribution</h1>
                             <h3>VOD, Online TV, Internet Music, Smart TV</h3>
-                            <p>StableFlow offers expertise in developing professional solutions for media content management and distribution:</p>
+                            <p>EEW  offers expertise in developing professional solutions for media content management and distribution:</p>
                             <ul>           
                                 <li>Solutions, allowing users to upload, create and share digital content such as video, audio and images.</li>
                                 <li>Video on demand (VOD) or audio and video on demand (AVOD) via the Web browsers and Mobile applications</li>
@@ -123,11 +123,11 @@
                             <h3 class="rportf">Related Portfolio</h3>
                             <ul>
                                 <li>            
-                                    <a target="_blank" rel="nofollow" href="#">Bloop London</a>
-                                    [<a target="_blank" rel="nofollow" href="#">App Store</a>]
+                                    <a  rel="nofollow" href="#">Bloop London</a>
+                                    [<a  rel="nofollow" href="#">App Store</a>]
                                 </li>
-                                <li><a target="_blank" rel="nofollow" href="#">Russian Google TV</a></li>
-                                <li><a target="_blank" rel="nofollow" href="#">EntBay TV</a></li>
+                                <li><a rel="nofollow" href="#">Russian Google TV</a></li>
+                                <li><a  rel="nofollow" href="#">EntBay TV</a></li>
                             </ul>
                         </div>
                         <div class="span3 sb-cont">    

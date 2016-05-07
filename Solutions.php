@@ -83,12 +83,12 @@
                     <div class="phones">
                         <!--
                         <span>us:</span>
-                        <a href="tel:+17183953674">+1 718 395 3674</a>
+                       <a href="tel:+17183953674">+1 718 395 3674</a>
                         <span>uk:</span>
                         <a href="tel:+4402081448618">+44 020 8144 8618</a>
                         -->
                         <span>email:</span>
-                        <a href="mailto:sales@stableflow.com">sales@stableflow.com</a>
+                        <a href="mailto:sales@eewtech.in">sales@eewtech.in</a>
                     </div>
                     <div class="request_btn">
                         <span class="btn_grey"><a href="Contact.php" title="">Calculate your project's development cost »</a></span>                
@@ -105,15 +105,15 @@
                                 <span class="icon-bar"></span>
                             </a>
                         </div>    
-                        <a href="http://www.stableflow.com/" class="logo small_displ" title="Home"></a>
+                        <a href="index.php" class="logo small_displ" title="Home"></a>
                         <div class="container small">
                             <div class="rfp">
                                 <!--
                                 <a class="header_sep hl1 hphone" href="tel:+17183953674">+1 718 395 3674</a>
                                 <a class="header_sep hl2 hphone" href="tel:+4402081448618">+44 020 8144 8618</a>
                                 -->
-                                <a class="header_sep hl3 hlink" href="mailto:sales@stableflow.com">sales@stableflow.com</a>
-                                <a href="http://www.stableflow.com/contact/" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
+                                <a class="header_sep hl3 hlink" href="mailto:sales@eewtech.in">sales@stableflow.com</a>
+                                <a href="Contact.php" class="btn btn-navbar lang" style="font-size: 17px; text-transform: uppercase;">Request a quote »</a>
                             </div>
                         </div>
                         <div class="nav-collapse collapse navbar-inverse-collapse" style="font-size: 20px;">
@@ -122,7 +122,7 @@
                     </div><!-- /navbar-inner -->
                 </div>
                 <div id="pcat">
-                    <span class="btn_grey" style="margin: 0;"><a href="http://www.stableflow.com/services/#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
+                    <span class="btn_grey" style="margin: 0;"><a href="#" class="sb-toggle-right" style="margin: 0;">Select a Category</a></span>
                 </div>
             </div>
         </div>
@@ -147,7 +147,7 @@
                                 <li>Single-page applications (SPA) and websites</li>
                             </ul> 
                             <br>
-                            <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Web%20Development">Request</a></span>
+                            <span class="btn_grey"><a href="Contact.php">Request</a></span>
                             <br>
                             <br>
                         </div>    
@@ -159,7 +159,7 @@
                                 <li>Hybrid mobile applications</li>
                                 <li>Web services in support of online mobile apps</li>
                                 <br>
-                                <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Mobile%20development">Request</a></span>
+                                <span class="btn_grey"><a href="Contact.php">Request</a></span>
                                 <br>
                             </ul></div>
                     </div>
@@ -168,14 +168,14 @@
                             <h3 style="border-top: 1px dashed #ECECEC;">Own Development Team</h3>
                             <p>Own Development Team model represents full-time development resources, allocated to work exclusively on your projects on a long-term basis. EEW is responsible for recruiting, hiring, housing, and retaining a team of specialists, who have precisely the set of knowledge and technologies that are needed to you. We offer you flexibility in terms of team size and structure as well as the option to increase or decrease numbers during the engagement.</p>
                             <br>
-                            <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Own%20Development%20Team">Request</a></span>
+                            <span class="btn_grey"><a href="Contact.php">Request</a></span>
                             <br>
                         </div>    
                         <div class="right span6">                    
                             <h3 style="border-top: 1px dashed #ECECEC;">Skills Augmentation</h3>
                             <p>If your existing team has a shortfall in knowledge or resources, EEW can augment the existing members to help meet your delivery target. Experts with specific skills can be involved on as-needed basis for particular tasks or dedicated for full-time work as a member of your team. We know how to integrate quickly and efficiently with your existing team structure and processes.</p>
                             <br>
-                            <span class="btn_grey"><a href="http://www.stableflow.com/contact/?txtSubject=Skills%20Augmentation">Request</a></span>
+                            <span class="btn_grey"><a href="Contact.php">Request</a></span>
                             <br>
                         </div>
                     </div>

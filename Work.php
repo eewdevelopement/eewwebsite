@@ -67,7 +67,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
 
@@ -87,7 +87,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
 
@@ -109,7 +109,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="index.php">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
 
@@ -129,10 +129,10 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">App Store</a></span>
+                                            <span class="btn_grey"><a rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -153,7 +153,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
 
@@ -178,7 +178,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
 
@@ -203,10 +203,10 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -229,7 +229,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
 
@@ -253,10 +253,10 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -277,7 +277,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="index.php">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="index.php">See Online</a></span>
 
 
 
@@ -298,7 +298,7 @@
                                         <div class="links">
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -318,7 +318,7 @@
                                         <div class="links">
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -339,7 +339,7 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="index.php">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="index.php">See Online</a></span>
 
 
 
@@ -362,7 +362,7 @@
                                         <div class="links">
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
@@ -382,10 +382,10 @@
 
                                         <div class="links">
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">See Online</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">See Online</a></span>
 
 
-                                            <span class="btn_grey"><a target="_blank" rel="nofollow" href="#">App Store</a></span>
+                                            <span class="btn_grey"><a  rel="nofollow" href="#">App Store</a></span>
 
 
                                         </div>
